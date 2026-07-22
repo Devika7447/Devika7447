@@ -59,7 +59,7 @@
 </table>
 </td>
 <td width="45%" align="center" valign="middle" style="padding-left: 20px;">
-<img src="whoami_astronaut.png" width="300" alt="Cartoon astrologer looking at stars with a telescope">
+<img src="about_astrologer.png" width="300" alt="Cartoon astrologer looking at stars with a telescope">
 </td>
 </tr>
 </table>
@@ -230,7 +230,7 @@
 <table width="100%" border="0" cellspacing="0" cellpadding="0">
 <tr>
 <td width="40%" align="center" valign="middle" style="padding-right: 20px;">
-<img src="research_lab.png" width="300" alt="Cozy coding cat with sunglasses">
+<img src="research_cat.png" width="300" alt="Cozy coding cat with sunglasses">
 </td>
 <td width="60%" valign="middle">
 <h3 style="color: #FFB800; font-family: sans-serif; margin-top: 0; font-size: 18px;">Currently Investigating:</h3>
@@ -302,7 +302,7 @@
 <br><br>
 
 <div align="center">
-<img src="footer_astronaut.png" width="140" alt="Space cat waving goodbye"><br><br>
+<img src="footer_cat.png" width="140" alt="Space cat waving goodbye"><br><br>
 <h3 style="color: #222222; font-family: sans-serif; margin: 5px 0;">"Thanks for visiting Mission Devika."</h3>
 <p style="color: #666666; font-family: sans-serif; margin: 5px 0; font-size: 15px;">Safe Travels, Explorer. 🛰️</p>
 </div>
