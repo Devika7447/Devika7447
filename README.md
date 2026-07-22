@@ -266,7 +266,7 @@
 <br><br>
 
 <div align="center">
-<img src="footer_cat.png" width="140" alt="Space cat waving goodbye"><br><br>
+<img src="footer_seesaw.png" width="160" alt="Cute astronaut and alien playing seesaw on a planet"><br><br>
 <h3 style="color: #222222; font-family: sans-serif; margin: 5px 0;">"Thanks for visiting Mission Devika."</h3>
 <p style="color: #666666; font-family: sans-serif; margin: 5px 0; font-size: 15px;">Safe Travels, Explorer. 🛰️</p>
 </div>
