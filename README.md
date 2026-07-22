@@ -162,14 +162,7 @@
 </tr>
 </table>
 
-<br><br>
-
-<div align="center">
-<!-- Divider 3: Flying Comet Streak -->
-<img src="divider_comet.svg" width="100%" alt="Comet Divider">
-</div>
-
-<br>
+<br><br><br>
 
 ## 🪐 EXPLORER'S TOOLKIT
 
