@@ -1,0 +1,94 @@
+<svg width="830" height="400" viewBox="0 0 830 400" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <style>
+      @import url('https://fonts.googleapis.com/css2?family=Plus+Jakarta+Sans:wght@700&amp;display=swap');
+      .bubble-text {
+        font-family: 'Plus Jakarta Sans', sans-serif;
+        font-weight: 700;
+        font-size: 11px;
+        fill: #000000;
+      }
+      .floating-astronaut {
+        animation: float-astro 6s ease-in-out infinite;
+      }
+      @keyframes float-astro {
+        0% { transform: translateY(0px) rotate(0deg); }
+        50% { transform: translateY(-6px) rotate(0.5deg); }
+        100% { transform: translateY(0px) rotate(0deg); }
+      }
+    </style>
+  </defs>
+
+  <!-- Stars in the background -->
+  <g opacity="0.3">
+    <path d="M 320 50 L 322 55 L 327 55 L 323 58 L 325 63 L 320 60 L 315 63 L 317 58 L 313 55 L 318 55 Z" fill="#FFC83D"/>
+    <path d="M 520 70 L 522 75 L 527 75 L 523 78 L 525 83 L 520 80 L 515 83 L 517 78 L 513 75 L 518 75 Z" fill="#FFC83D"/>
+    <path d="M 330 350 L 332 355 L 337 355 L 333 358 L 335 363 L 330 360 L 325 363 L 327 358 L 323 355 L 328 355 Z" fill="#FFC83D"/>
+    <path d="M 500 340 L 502 345 L 507 345 L 503 348 L 505 353 L 500 350 L 495 353 L 497 348 L 493 345 L 498 345 Z" fill="#FFC83D"/>
+  </g>
+
+  <!-- 1. BUBBLE 1 (Top Left) -->
+  <!-- Black Shadow -->
+  <rect x="34" y="44" width="240" height="56" rx="16" ry="16" fill="#000000"/>
+  <path d="M 274 64 L 309 72 L 269 80" fill="#000000"/>
+  <!-- Foreground Yellow Box -->
+  <path d="M 270 60 L 305 68 L 265 76" fill="#FFE45C" stroke="#000000" stroke-width="3" stroke-linejoin="round"/>
+  <rect x="30" y="40" width="240" height="56" rx="16" ry="16" fill="#FFE45C" stroke="#000000" stroke-width="3"/>
+  <rect x="250" y="55" width="22" height="26" fill="#FFE45C"/>
+  <text x="150" y="73" class="bubble-text" text-anchor="middle">MSc Data Science (VIT Vellore) 🎓</text>
+
+  <!-- 2. BUBBLE 2 (Middle Left) -->
+  <!-- Black Shadow -->
+  <rect x="24" y="174" width="250" height="56" rx="16" ry="16" fill="#000000"/>
+  <path d="M 274 194 L 309 202 L 269 210" fill="#000000"/>
+  <!-- Foreground Yellow Box -->
+  <path d="M 270 190 L 305 198 L 265 206" fill="#FFE45C" stroke="#000000" stroke-width="3" stroke-linejoin="round"/>
+  <rect x="20" y="170" width="250" height="56" rx="16" ry="16" fill="#FFE45C" stroke="#000000" stroke-width="3"/>
+  <rect x="250" y="185" width="22" height="26" fill="#FFE45C"/>
+  <text x="145" y="203" class="bubble-text" text-anchor="middle">Business Analyst | Data Analyst 📊</text>
+
+  <!-- 3. BUBBLE 3 (Bottom Left) -->
+  <!-- Black Shadow -->
+  <rect x="34" y="304" width="240" height="56" rx="16" ry="16" fill="#000000"/>
+  <path d="M 274 324 L 309 332 L 269 340" fill="#000000"/>
+  <!-- Foreground Yellow Box -->
+  <path d="M 270 320 L 305 328 L 265 336" fill="#FFE45C" stroke="#000000" stroke-width="3" stroke-linejoin="round"/>
+  <rect x="30" y="300" width="240" height="56" rx="16" ry="16" fill="#FFE45C" stroke="#000000" stroke-width="3"/>
+  <rect x="250" y="315" width="22" height="26" fill="#FFE45C"/>
+  <text x="150" y="333" class="bubble-text" text-anchor="middle">Building AI-powered solutions ⚡</text>
+
+  <!-- Central Girl Astronaut riding the rocket (with floating effect) -->
+  <g class="floating-astronaut">
+    <image href="mission_control_girl.png" x="290" y="75" width="250" height="250"/>
+  </g>
+
+  <!-- 4. BUBBLE 4 (Top Right) -->
+  <!-- Black Shadow -->
+  <rect x="564" y="44" width="240" height="56" rx="16" ry="16" fill="#000000"/>
+  <path d="M 564 64 L 529 72 L 569 80" fill="#000000"/>
+  <!-- Foreground Yellow Box -->
+  <path d="M 560 60 L 525 68 L 565 76" fill="#FFE45C" stroke="#000000" stroke-width="3" stroke-linejoin="round"/>
+  <rect x="560" y="40" width="240" height="56" rx="16" ry="16" fill="#FFE45C" stroke="#000000" stroke-width="3"/>
+  <rect x="555" y="55" width="22" height="26" fill="#FFE45C"/>
+  <text x="680" y="73" class="bubble-text" text-anchor="middle">Active Explorer 🟢</text>
+
+  <!-- 5. BUBBLE 5 (Middle Right) -->
+  <!-- Black Shadow -->
+  <rect x="574" y="174" width="245" height="56" rx="16" ry="16" fill="#000000"/>
+  <path d="M 574 194 L 539 202 L 579 210" fill="#000000"/>
+  <!-- Foreground Yellow Box -->
+  <path d="M 570 190 L 535 198 L 575 206" fill="#FFE45C" stroke="#000000" stroke-width="3" stroke-linejoin="round"/>
+  <rect x="570" y="170" width="245" height="56" rx="16" ry="16" fill="#FFE45C" stroke="#000000" stroke-width="3"/>
+  <rect x="565" y="185" width="22" height="26" fill="#FFE45C"/>
+  <text x="692" y="203" class="bubble-text" style="font-size: 10.5px;" text-anchor="middle">Jr. System Engineer (Cognizant) 💼</text>
+
+  <!-- 6. BUBBLE 6 (Bottom Right) -->
+  <!-- Black Shadow -->
+  <rect x="564" y="304" width="240" height="56" rx="16" ry="16" fill="#000000"/>
+  <path d="M 564 324 L 529 332 L 569 340" fill="#000000"/>
+  <!-- Foreground Yellow Box -->
+  <path d="M 560 320 L 525 328 L 565 336" fill="#FFE45C" stroke="#000000" stroke-width="3" stroke-linejoin="round"/>
+  <rect x="560" y="300" width="240" height="56" rx="16" ry="16" fill="#FFE45C" stroke="#000000" stroke-width="3"/>
+  <rect x="555" y="315" width="22" height="26" fill="#FFE45C"/>
+  <text x="680" y="333" class="bubble-text" text-anchor="middle">Kerala, India 📍</text>
+</svg>
