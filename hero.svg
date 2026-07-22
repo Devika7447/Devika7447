@@ -8,10 +8,11 @@
       .mono-font {
         font-family: 'Share Tech Mono', monospace;
       }
-      .pill-text {
-        font-family: 'Plus Jakarta Sans', sans-serif;
-        font-weight: 700;
-        font-size: 11px;
+      .typing-font {
+        font-family: 'Comic Sans MS', 'Share Tech Mono', cursive, monospace;
+        font-size: 22px;
+        font-weight: bold;
+        fill: #FFB800;
       }
       @keyframes float {
         0% { transform: translateY(0px); }
@@ -28,6 +29,37 @@
       .btn:hover {
         opacity: 0.8;
       }
+      
+      /* Typing Animation Keyframes for 5 stacked text items */
+      @keyframes type1 {
+        0%, 18% { opacity: 1; }
+        20%, 100% { opacity: 0; }
+      }
+      @keyframes type2 {
+        0%, 20% { opacity: 0; }
+        22%, 38% { opacity: 1; }
+        40%, 100% { opacity: 0; }
+      }
+      @keyframes type3 {
+        0%, 40% { opacity: 0; }
+        42%, 58% { opacity: 1; }
+        60%, 100% { opacity: 0; }
+      }
+      @keyframes type4 {
+        0%, 60% { opacity: 0; }
+        62%, 78% { opacity: 1; }
+        80%, 100% { opacity: 0; }
+      }
+      @keyframes type5 {
+        0%, 80% { opacity: 0; }
+        82%, 98% { opacity: 1; }
+        100% { opacity: 0; }
+      }
+      .t1 { animation: type1 15s infinite; }
+      .t2 { animation: type2 15s infinite; }
+      .t3 { animation: type3 15s infinite; }
+      .t4 { animation: type4 15s infinite; }
+      .t5 { animation: type5 15s infinite; }
     </style>
   </defs>
 
@@ -36,34 +68,22 @@
   <!-- Left Content Column -->
   <g transform="translate(15, 30)">
     <!-- Welcome greeting -->
-    <text x="0" y="25" class="sans-font" font-size="20" font-weight="500" fill="#666666">👋 Hello, Earth!</text>
+    <text x="0" y="25" class="sans-font" font-size="20" font-weight="500" fill="#888888">👋 Hello, Earth!</text>
     
-    <!-- Name -->
-    <text x="0" y="75" class="sans-font" font-size="44" font-weight="700" fill="#222222">Devika J Nair</text>
+    <!-- Name (Updated to Yellow color for dark and light mode visibility) -->
+    <text x="0" y="75" class="sans-font" font-size="44" font-weight="700" fill="#FFC83D">Devika J Nair</text>
 
-    <!-- Professional Timeline Pills -->
-    <g transform="translate(0, 105)">
-      <!-- Pill 1 -->
-      <rect x="0" y="0" width="180" height="26" rx="13" fill="#EAE5DC"/>
-      <text x="90" y="17" class="pill-text" fill="#666666" text-anchor="middle">TECHNICAL SUPPORT</text>
-
-      <!-- Arrow 1 -->
-      <text x="195" y="17" class="sans-font" font-size="14" fill="#FFB800" font-weight="bold">➔</text>
-
-      <!-- Pill 2 -->
-      <rect x="215" y="0" width="145" height="26" rx="13" fill="#FFEBB3"/>
-      <text x="287.5" y="17" class="pill-text" fill="#FFB800" text-anchor="middle">BUSINESS ANALYST</text>
-
-      <!-- Arrow 2 -->
-      <text x="375" y="17" class="sans-font" font-size="14" fill="#FFB800" font-weight="bold">➔</text>
-
-      <!-- Pill 3 -->
-      <rect x="395" y="0" width="105" height="26" rx="13" fill="#FFC83D"/>
-      <text x="447.5" y="17" class="pill-text" fill="#0B0B0B" text-anchor="middle">AI BUILDER</text>
+    <!-- Typing Text Area (y=120) instead of the technical support timeline pills -->
+    <g transform="translate(0, 115)">
+      <text x="0" y="10" class="typing-font t1">Business Analyst</text>
+      <text x="0" y="10" class="typing-font t2">AI Enthusiast</text>
+      <text x="0" y="10" class="typing-font t3">Data Storyteller</text>
+      <text x="0" y="10" class="typing-font t4">Building with Python</text>
+      <text x="0" y="10" class="typing-font t5">Always Learning</text>
     </g>
 
     <!-- Tagline -->
-    <text x="0" y="175" class="sans-font" font-size="18" font-weight="500" fill="#444444">
+    <text x="0" y="180" class="sans-font" font-size="18" font-weight="500" fill="#BBBBBB">
       Building intelligent solutions where <tspan fill="#FFB800" font-weight="700">Business</tspan>, <tspan fill="#FFC83D" font-weight="700">Data</tspan>, &amp; <tspan fill="#FFB800" font-weight="700">AI</tspan> meet.
     </text>
 
@@ -83,14 +103,13 @@
 
       <!-- Email Button -->
       <a href="mailto:devumeri47@gmail.com" target="_blank" class="btn">
-        <rect x="294" y="0" width="120" height="42" rx="21" stroke="#666666" stroke-width="2" fill="none"/>
-        <text x="354" y="26" class="sans-font" font-weight="700" font-size="13" fill="#666666" text-anchor="middle">✉️ EMAIL</text>
+        <rect x="294" y="0" width="120" height="42" rx="21" stroke="#888888" stroke-width="2" fill="none"/>
+        <text x="354" y="26" class="sans-font" font-weight="700" font-size="13" fill="#888888" text-anchor="middle">✉️ EMAIL</text>
       </a>
     </g>
   </g>
 
   <!-- Floating Astronaut illustration on moon with VIT Flag (Base64 PNG) -->
-  <!-- We nest class="floating" inside a translated group to prevent CSS override bugs -->
   <g transform="translate(540, 20)">
     <g class="floating">
       <circle cx="125" cy="125" r="120" fill="#FFEBB3" opacity="0.15"/>
@@ -100,7 +119,7 @@
 
   <!-- Decorative Sparkles and Planets -->
   <!-- Tiny Stars -->
-  <g fill="#222222" opacity="0.3">
+  <g fill="#FFC83D" opacity="0.3">
     <circle cx="510" cy="50" r="1.5"/>
     <circle cx="480" cy="280" r="1"/>
     <circle cx="780" cy="320" r="2"/>
