@@ -230,7 +230,7 @@
 <table width="100%" border="0" cellspacing="0" cellpadding="0">
 <tr>
 <td width="40%" align="center" valign="middle" style="padding-right: 20px;">
-<img src="research_lab.png" width="300" alt="Astronaut in research lab">
+<img src="research_lab.png" width="300" alt="Cozy coding cat with sunglasses">
 </td>
 <td width="60%" valign="middle">
 <h3 style="color: #FFB800; font-family: sans-serif; margin-top: 0; font-size: 18px;">Currently Investigating:</h3>
