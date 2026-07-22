@@ -227,14 +227,14 @@
 ## 🏆 ACHIEVEMENTS
 
 <div align="center">
-<img src="trophy_shelf.svg" width="100%" alt="Achievements Trophy Shelf">
+<img src="trophy_shelf_aligned.svg" width="100%" alt="Achievements Trophy Shelf">
 </div>
 
 <br>
 
 <div align="center">
 <h4 style="font-family: sans-serif; color: #666666; margin-bottom: 10px;">🏆 GitHub Orbit Trophies</h4>
-<img src="https://github-profile-trophy.herokuapp.com/?username=Devika7447&amp;theme=flat&amp;no-bg=true&amp;no-frame=true&amp;margin-w=15" alt="Devika's Trophies" />
+<img src="https://github-profile-trophy.vercel.app/?username=Devika7447&amp;theme=flat&amp;no-bg=true&amp;no-frame=true&amp;margin-w=15" alt="Devika's Trophies" />
 </div>
 
 <br><br>

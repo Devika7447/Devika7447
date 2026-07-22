@@ -1,4 +1,4 @@
-<svg width="830" height="150" viewBox="0 0 830 150" fill="none" xmlns="http://www.w3.org/2000/svg">
+<svg width="830" height="160" viewBox="0 0 830 160" fill="none" xmlns="http://www.w3.org/2000/svg">
   <defs>
     <style>
       @import url('https://fonts.googleapis.com/css2?family=Plus+Jakarta+Sans:wght@400;500;700&amp;display=swap');
@@ -16,7 +16,7 @@
         font-family: 'Plus Jakarta Sans', sans-serif;
         font-weight: 500;
         font-size: 10px;
-        fill: #666666;
+        fill: #888888;
       }
       @keyframes float-trophy {
         0% { transform: translateY(0px); }
@@ -32,10 +32,9 @@
   <!-- Shelf Line -->
   <line x1="50" y1="110" x2="780" y2="110" stroke="#FFC83D" stroke-width="4" stroke-linecap="round"/>
   <!-- Shelf shadow/reflection line -->
-  <line x1="80" y1="115" x2="750" y2="115" stroke="#E5E0D8" stroke-width="2" stroke-linecap="round"/>
+  <line x1="80" y1="115" x2="750" y2="115" stroke="#444444" stroke-width="2" stroke-linecap="round"/>
 
-  <!-- Trophy 1 (Left): YIP Winner -->
-  <!-- Nest floating-trophy inside the translated group to prevent CSS position reset -->
+  <!-- Trophy 1 (Left): YIP Winner (Floating) -->
   <g transform="translate(180, 20)">
     <g class="floating-trophy">
       <!-- Base -->
@@ -49,14 +48,10 @@
       <path d="M 60 30 C 65 30, 65 45, 55 45" stroke="#FFB800" stroke-width="2" fill="none"/>
       <!-- Star on Trophy -->
       <path d="M 40 32 L 41 35 L 44 35 L 42 37 L 43 40 L 40 38 L 37 40 L 38 37 L 36 35 L 39 35 Z" fill="#FFFDF8"/>
-      
-      <!-- Text Labels -->
-      <text x="40" y="103" class="trophy-title" text-anchor="middle">YIP DISTRICT WINNER</text>
-      <text x="40" y="117" class="trophy-desc" text-anchor="middle">District Champion (Young Innovators)</text>
     </g>
   </g>
 
-  <!-- Trophy 2 (Center): State Participant -->
+  <!-- Trophy 2 (Center): State Participant (Floating) -->
   <g style="animation-delay: 1s;" transform="translate(415, 10)">
     <g class="floating-trophy">
       <!-- Base -->
@@ -68,14 +63,10 @@
       <path d="M 0 20 L 5 32 L 18 32 L 8 40 L 12 52 L 0 44 L -12 52 L -8 40 L -18 32 L -5 32 Z" fill="#FFC83D" stroke="#FFB800" stroke-width="2"/>
       <!-- Tiny Inner Star Highlight -->
       <path d="M 0 27 L 2 33 L 8 33 L 3 37 L 5 43 L 0 39 L -5 43 L -3 37 L -8 33 L -2 33 Z" fill="#FFFDF8"/>
-      
-      <!-- Text Labels -->
-      <text x="0" y="113" class="trophy-title" text-anchor="middle">STATE LEVEL FINALIST</text>
-      <text x="0" y="127" class="trophy-desc" text-anchor="middle">State Level Summit Presentation</text>
     </g>
   </g>
 
-  <!-- Trophy 3 (Right): GitHub Trophies -->
+  <!-- Trophy 3 (Right): GitHub Trophies (Floating) -->
   <g style="animation-delay: 2s;" transform="translate(610, 20)">
     <g class="floating-trophy">
       <!-- Base -->
@@ -86,10 +77,21 @@
       <!-- Ring / Planet Bowl -->
       <circle cx="40" cy="38" r="14" fill="#FFB800" stroke="#FFC83D" stroke-width="1.5"/>
       <ellipse cx="40" cy="38" rx="20" ry="5" stroke="#FFC83D" stroke-width="2" fill="none" transform="rotate(-15 40 38)"/>
-      
-      <!-- Text Labels -->
-      <text x="40" y="103" class="trophy-title" text-anchor="middle">GITHUB ORBIT</text>
-      <text x="40" y="117" class="trophy-desc" text-anchor="middle">Active Open Source Contributions</text>
     </g>
+  </g>
+
+  <!-- Static Text Labels (Anchored below the shelf to prevent floating & overlap) -->
+  <g>
+    <!-- Left Trophy Labels -->
+    <text x="220" y="132" class="trophy-title" text-anchor="middle">YIP DISTRICT WINNER</text>
+    <text x="220" y="147" class="trophy-desc" text-anchor="middle">District Champion (Young Innovators)</text>
+
+    <!-- Center Trophy Labels -->
+    <text x="415" y="132" class="trophy-title" text-anchor="middle">STATE LEVEL FINALIST</text>
+    <text x="415" y="147" class="trophy-desc" text-anchor="middle">State Level Summit Presentation</text>
+
+    <!-- Right Trophy Labels -->
+    <text x="650" y="132" class="trophy-title" text-anchor="middle">GITHUB ORBIT</text>
+    <text x="650" y="147" class="trophy-desc" text-anchor="middle">Active Open Source Contributions</text>
   </g>
 </svg>
