@@ -77,10 +77,12 @@
   </g>
 
   <!-- Flying Rocket Illustration navigating the path -->
-  <g class="rocket-animation" transform="translate(620, 45)">
-    <path d="M0 20 L15 0 L30 20 L22 18 L15 25 L8 18 Z" fill="#FFC83D" stroke="#FFB800" stroke-width="1.5"/>
-    <path d="M15 0 L15 25" stroke="#FFB800" stroke-width="1"/>
-    <!-- Flame -->
-    <path d="M10 23 Q15 35 20 23" fill="#FFB800" opacity="0.8"/>
+  <g transform="translate(620, 45)">
+    <g class="rocket-animation">
+      <path d="M0 20 L15 0 L30 20 L22 18 L15 25 L8 18 Z" fill="#FFC83D" stroke="#FFB800" stroke-width="1.5"/>
+      <path d="M15 0 L15 25" stroke="#FFB800" stroke-width="1"/>
+      <!-- Flame -->
+      <path d="M10 23 Q15 35 20 23" fill="#FFB800" opacity="0.8"/>
+    </g>
   </g>
 </svg>
