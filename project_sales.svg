@@ -1,0 +1,23 @@
+<svg width="60" height="60" viewBox="0 0 60 60" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <!-- Grid background lines -->
+  <line x1="8" y1="48" x2="52" y2="48" stroke="#555" stroke-width="1.5"/>
+  <line x1="8" y1="48" x2="8" y2="12" stroke="#555" stroke-width="1.5"/>
+  
+  <!-- Analytics Bar 1 -->
+  <rect x="14" y="32" width="6" height="16" rx="2" fill="#FFB800"/>
+  <!-- Analytics Bar 2 -->
+  <rect x="24" y="22" width="6" height="26" rx="2" fill="#FFC83D"/>
+  <!-- Analytics Bar 3 -->
+  <rect x="34" y="14" width="6" height="34" rx="2" fill="#FFB800"/>
+
+  <!-- Upward Trend Arrow -->
+  <path d="M12 40 L26 28 L38 20 L48 10" stroke="#4AF626" stroke-width="2.5" stroke-linecap="round"/>
+  <path d="M42 10 H48 V16" stroke="#4AF626" stroke-width="2.5" stroke-linecap="round" stroke-linejoin="round"/>
+  
+  <!-- Shopping cart or node in the corner representing retail -->
+  <circle cx="48" cy="40" r="7" fill="#0B0B0B" stroke="#FFC83D" stroke-width="2"/>
+  <!-- Cart symbol -->
+  <path d="M45 38 H50 L51 42 H46 Z" stroke="#FFC83D" stroke-width="1.2" fill="none"/>
+  <circle cx="47" cy="44" r="1" fill="#FFC83D"/>
+  <circle cx="50" cy="44" r="1" fill="#FFC83D"/>
+</svg>

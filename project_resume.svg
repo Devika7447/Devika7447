@@ -1,0 +1,14 @@
+<svg width="60" height="60" viewBox="0 0 60 60" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <!-- Document silhouette -->
+  <rect x="12" y="8" width="36" height="44" rx="6" stroke="#FFC83D" stroke-width="2.5" fill="none"/>
+  <!-- Lines in document -->
+  <line x1="18" y1="18" x2="32" y2="18" stroke="#FFB800" stroke-width="2.5" stroke-linecap="round"/>
+  <line x1="18" y1="26" x2="42" y2="26" stroke="#FFB800" stroke-width="2.5" stroke-linecap="round"/>
+  <line x1="18" y1="34" x2="36" y2="34" stroke="#FFB800" stroke-width="2.5" stroke-linecap="round"/>
+  <!-- AI / Sparkle indicator in the top right -->
+  <path d="M44 6 L46 11 L51 13 L46 15 L44 20 L42 15 L37 13 L42 11 Z" fill="#4AF626"/>
+  <!-- Magnifying glass matching check -->
+  <circle cx="40" cy="40" r="10" fill="#0B0B0B" stroke="#FFC83D" stroke-width="2"/>
+  <!-- Checkmark inside matching circle -->
+  <path d="M36 40 L39 43 L44 37" stroke="#4AF626" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" fill="none"/>
+</svg>

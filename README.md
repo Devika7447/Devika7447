@@ -81,7 +81,7 @@
 <table width="100%" border="0" cellspacing="0" cellpadding="0">
 <tr>
 <td width="70" valign="top">
-<img src="project_resume.png" width="60" alt="Resume Match Icon">
+<img src="project_resume.svg" width="60" alt="AI Resume Matcher Icon">
 </td>
 <td valign="top" style="padding-left: 12px;">
 <span style="font-size: 10px; font-weight: bold; color: #FFB800; font-family: monospace;">MISSION 01 • COMPLETE 🏆</span>
@@ -101,7 +101,7 @@
 <table width="100%" border="0" cellspacing="0" cellpadding="0">
 <tr>
 <td width="70" valign="top">
-<img src="project_sales.png" width="60" alt="Retail Sales Icon">
+<img src="project_sales.svg" width="60" alt="Retail Analytics Icon">
 </td>
 <td valign="top" style="padding-left: 12px;">
 <span style="font-size: 10px; font-weight: bold; color: #FFB800; font-family: monospace;">MISSION 02 • ACTIVE 📡</span>
