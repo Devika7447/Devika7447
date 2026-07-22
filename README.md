@@ -187,43 +187,7 @@
 <img src="journey.svg" width="100%" alt="Career Mission Journey">
 </div>
 
-<br><br>
 
-## 📊 MISSION ANALYTICS
-
-<div align="center">
-<table border="0" cellspacing="10" cellpadding="0">
-<tr>
-<td align="center" valign="top" bgcolor="#FFFDF8" style="border: 1px solid #FFC83D; border-radius: 12px; padding: 15px;">
-<img src="https://github-readme-stats.vercel.app/api?username=Devika7447&show_icons=true&bg_color=FFFDF8&title_color=FFB800&text_color=222222&icon_color=FFC83D&border_color=FFFDF8&hide_border=true" alt="Devika's GitHub Stats" height="195">
-</td>
-<td align="center" valign="top" bgcolor="#FFFDF8" style="border: 1px solid #FFC83D; border-radius: 12px; padding: 15px;">
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Devika7447&layout=compact&bg_color=FFFDF8&title_color=FFB800&text_color=222222&icon_color=FFC83D&border_color=FFFDF8&hide_border=true" alt="Devika's Top Languages" height="195">
-</td>
-</tr>
-</table>
-</div>
-
-<br>
-
-<div align="center">
-<table width="95%" border="0" cellspacing="0" cellpadding="15" bgcolor="#FFFDF8" style="border: 1px solid #FFC83D; border-radius: 12px;">
-<tr>
-<td align="center" valign="middle">
-<h3 style="color: #222222; font-family: sans-serif; margin-top: 0; margin-bottom: 15px;">🐍 Contribution Orbit</h3>
-<table width="100%" border="0" cellspacing="0" cellpadding="0">
-<tr>
-<td align="center">
-<img src="https://raw.githubusercontent.com/Devika7447/Devika7447/output/github-contribution-grid-snake-dark.svg" alt="GitHub Contribution Snake" width="100%">
-</td>
-</tr>
-</table>
-</td>
-</tr>
-</table>
-</div>
-
-<br><br>
 
 ## 🧪 RESEARCH LAB
 
