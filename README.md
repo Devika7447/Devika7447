@@ -257,7 +257,7 @@
 </g>
 </td>
 <td width="40%" align="center" valign="middle">
-<img src="vit_astronaut.png" width="180" alt="VIT Space Explorer Astronaut">
+<img src="mission_control_astronaut.png" width="180" alt="Cute astronaut reading newspaper on moon in space">
 </td>
 </tr>
 </table>
