@@ -195,10 +195,10 @@
 <table border="0" cellspacing="10" cellpadding="0">
 <tr>
 <td align="center" valign="top" bgcolor="#FFFDF8" style="border: 1px solid #FFC83D; border-radius: 12px; padding: 15px;">
-<img src="https://github-readme-stats.vercel.app/api?username=Devika7447&amp;show_icons=true&amp;bg_color=FFFDF8&amp;title_color=FFB800&amp;text_color=222222&amp;icon_color=FFC83D&amp;border_color=FFFDF8&amp;hide_border=true" alt="Devika's GitHub Stats" height="195">
+<img src="https://github-readme-stats.vercel.app/api?username=Devika7447&show_icons=true&bg_color=FFFDF8&title_color=FFB800&text_color=222222&icon_color=FFC83D&border_color=FFFDF8&hide_border=true" alt="Devika's GitHub Stats" height="195">
 </td>
 <td align="center" valign="top" bgcolor="#FFFDF8" style="border: 1px solid #FFC83D; border-radius: 12px; padding: 15px;">
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Devika7447&amp;layout=compact&amp;bg_color=FFFDF8&amp;title_color=FFB800&amp;text_color=222222&amp;icon_color=FFC83D&amp;border_color=FFFDF8&amp;hide_border=true" alt="Devika's Top Languages" height="195">
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Devika7447&layout=compact&bg_color=FFFDF8&title_color=FFB800&text_color=222222&icon_color=FFC83D&border_color=FFFDF8&hide_border=true" alt="Devika's Top Languages" height="195">
 </td>
 </tr>
 </table>
@@ -213,11 +213,8 @@
 <h3 style="color: #222222; font-family: sans-serif; margin-top: 0; margin-bottom: 15px;">🐍 Contribution Orbit</h3>
 <table width="100%" border="0" cellspacing="0" cellpadding="0">
 <tr>
-<td width="75%" align="center">
+<td align="center">
 <img src="https://raw.githubusercontent.com/Devika7447/Devika7447/output/github-contribution-grid-snake-dark.svg" alt="GitHub Contribution Snake" width="100%">
-</td>
-<td width="25%" align="center" valign="middle">
-<img src="hero_astronaut.gif" width="100" alt="Floating Astronaut">
 </td>
 </tr>
 </table>
