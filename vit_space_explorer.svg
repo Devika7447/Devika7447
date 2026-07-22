@@ -1,0 +1,104 @@
+<svg width="800" height="650" viewBox="0 0 800 650" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <style>
+      @import url('https://fonts.googleapis.com/css2?family=Share+Tech+Mono&amp;family=Outfit:wght@400;700&amp;display=swap');
+      .terminal-text {
+        font-family: 'Share Tech Mono', monospace;
+      }
+      .header-text {
+        font-family: 'Outfit', sans-serif;
+      }
+    </style>
+  </defs>
+
+  <!-- Base Card Background and Border -->
+  <rect x="2" y="2" width="796" height="646" rx="15" fill="#0B0B0B" stroke="#FFC83D" stroke-width="4"/>
+
+  <!-- Top Yellow Header Bar -->
+  <path d="M2 15C2 7.8203 7.8203 2 15 2H785C792.18 2 798 7.8203 798 15V40H2V15Z" fill="#FFC83D"/>
+  <text x="20" y="26" class="terminal-text" font-size="16" font-weight="bold" fill="#0B0B0B">VIT SPACE EXPLORER (YELLOW THEME)</text>
+
+  <!-- Terminal whoami prompt -->
+  <text x="40" y="90" class="terminal-text" font-size="18" fill="#4AF626">devika@vit:-$<tspan fill="#F7F7F7"> whoami</tspan></text>
+
+  <!-- Name Header -->
+  <text x="40" y="145" class="header-text" font-size="44" font-weight="700" fill="#FFC83D">Devika J Nair</text>
+
+  <!-- Bullet points with custom styling -->
+  <g transform="translate(40, 185)">
+    <!-- Bullet 1: Business Analyst -->
+    <g transform="translate(0, 0)">
+      <circle cx="12" cy="-6" r="10" fill="#FFB300" opacity="0.2"/>
+      <text x="5" y="0" font-size="14">💼</text>
+      <text x="35" y="-2" class="terminal-text" font-size="18" fill="#F7F7F7">Business Analyst</text>
+    </g>
+
+    <!-- Bullet 2: AI Explorer -->
+    <g transform="translate(0, 45)">
+      <circle cx="12" cy="-6" r="10" fill="#FFB300" opacity="0.2"/>
+      <text x="5" y="0" font-size="14">🤖</text>
+      <text x="35" y="-2" class="terminal-text" font-size="18" fill="#F7F7F7">AI Explorer</text>
+    </g>
+
+    <!-- Bullet 3: Data Enthusiast -->
+    <g transform="translate(0, 90)">
+      <circle cx="12" cy="-6" r="10" fill="#FFB300" opacity="0.2"/>
+      <text x="5" y="0" font-size="14">📊</text>
+      <text x="35" y="-2" class="terminal-text" font-size="18" fill="#F7F7F7">Data Enthusiast</text>
+    </g>
+
+    <!-- Bullet 4: Always Learning -->
+    <g transform="translate(0, 135)">
+      <circle cx="12" cy="-6" r="10" fill="#FFB300" opacity="0.2"/>
+      <text x="5" y="0" font-size="14">🚀</text>
+      <text x="35" y="-2" class="terminal-text" font-size="18" fill="#F7F7F7">Always Learning</text>
+    </g>
+  </g>
+
+  <!-- Astronaut illustration on moon with VIT Flag -->
+  <!-- Note: We embed vit_astronaut.png here. Relative reference works fine when both files are in the repository root. -->
+  <image href="vit_astronaut.png" x="430" y="55" width="330" height="330"/>
+
+  <!-- Quote Box with Dashed Yellow Border -->
+  <rect x="40" y="415" width="720" height="95" rx="10" fill="#0B0B0B" stroke="#FFC83D" stroke-dasharray="8 6" stroke-width="2"/>
+  <text x="400" y="452" class="terminal-text" font-size="16" fill="#F7F7F7" text-anchor="middle">Data is my fuel, Curiosity is my mission,</text>
+  <text x="400" y="482" class="terminal-text" font-size="16" fill="#F7F7F7" text-anchor="middle">Building solutions for a better tomorrow. 🚀</text>
+
+  <!-- Interactive buttons mockups -->
+  <g transform="translate(40, 540)">
+    <!-- Button 1: About Me -->
+    <g transform="translate(0, 0)">
+      <rect width="134" height="65" rx="10" stroke="#FFC83D" stroke-width="2" fill="#0B0B0B"/>
+      <text x="67" y="28" font-size="16" text-anchor="middle">👨‍🚀</text>
+      <text x="67" y="48" class="terminal-text" font-size="13" fill="#F7F7F7" text-anchor="middle" font-weight="bold">About Me</text>
+    </g>
+
+    <!-- Button 2: Projects -->
+    <g transform="translate(146, 0)">
+      <rect width="134" height="65" rx="10" stroke="#FFC83D" stroke-width="2" fill="#0B0B0B"/>
+      <text x="67" y="28" font-size="16" text-anchor="middle">📁</text>
+      <text x="67" y="48" class="terminal-text" font-size="13" fill="#F7F7F7" text-anchor="middle" font-weight="bold">Projects</text>
+    </g>
+
+    <!-- Button 3: Skills -->
+    <g transform="translate(292, 0)">
+      <rect width="134" height="65" rx="10" stroke="#FFC83D" stroke-width="2" fill="#0B0B0B"/>
+      <text x="67" y="28" font-size="16" text-anchor="middle">🛠️</text>
+      <text x="67" y="48" class="terminal-text" font-size="13" fill="#F7F7F7" text-anchor="middle" font-weight="bold">Skills</text>
+    </g>
+
+    <!-- Button 4: Experience -->
+    <g transform="translate(438, 0)">
+      <rect width="134" height="65" rx="10" stroke="#FFC83D" stroke-width="2" fill="#0B0B0B"/>
+      <text x="67" y="28" font-size="16" text-anchor="middle">💼</text>
+      <text x="67" y="48" class="terminal-text" font-size="13" fill="#F7F7F7" text-anchor="middle" font-weight="bold">Experience</text>
+    </g>
+
+    <!-- Button 5: Connect -->
+    <g transform="translate(584, 0)">
+      <rect width="134" height="65" rx="10" stroke="#FFC83D" stroke-width="2" fill="#0B0B0B"/>
+      <text x="67" y="28" font-size="16" text-anchor="middle">🔗</text>
+      <text x="67" y="48" class="terminal-text" font-size="13" fill="#F7F7F7" text-anchor="middle" font-weight="bold">Connect</text>
+    </g>
+  </g>
+</svg>
