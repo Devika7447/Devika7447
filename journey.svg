@@ -28,42 +28,41 @@
     </style>
   </defs>
 
-  <!-- Background and border -->
-  <rect x="2" y="2" width="826" height="146" rx="16" fill="#FFFDF8" stroke="#FFC83D" stroke-width="2"/>
+  <!-- Transparent background, no card/border container -->
 
   <!-- Connecting Timeline Winding Path -->
   <path d="M 80 75 Q 160 30 240 75 T 400 75 T 560 75 T 720 75" stroke="#FFC83D" stroke-width="3" stroke-dasharray="6 4" fill="none"/>
 
-  <!-- Planet 1 -->
+  <!-- Planet 1: Digital Strategy -->
   <g transform="translate(80, 75)">
-    <circle cx="0" cy="0" r="10" fill="#FFFDF8" stroke="#FFB800" stroke-width="3"/>
+    <circle cx="0" cy="0" r="10" fill="#FCFBF7" stroke="#FFB800" stroke-width="3"/>
     <circle cx="0" cy="0" r="5" fill="#FFC83D"/>
     <text x="0" y="-18" class="timeline-title" text-anchor="middle">DIGITAL STRATEGY</text>
     <text x="0" y="22" class="timeline-date" text-anchor="middle">Apr 24 - Jun 24</text>
     <text x="0" y="34" class="timeline-date" text-anchor="middle" font-weight="bold">InHouse Agency</text>
   </g>
 
-  <!-- Planet 2 -->
+  <!-- Planet 2: BI Intern -->
   <g transform="translate(240, 75)">
-    <circle cx="0" cy="0" r="10" fill="#FFFDF8" stroke="#FFB800" stroke-width="3"/>
+    <circle cx="0" cy="0" r="10" fill="#FCFBF7" stroke="#FFB800" stroke-width="3"/>
     <circle cx="0" cy="0" r="5" fill="#FFC83D"/>
     <text x="0" y="-18" class="timeline-title" text-anchor="middle">BI INTERN</text>
     <text x="0" y="22" class="timeline-date" text-anchor="middle">Feb 25 - May 25</text>
     <text x="0" y="34" class="timeline-date" text-anchor="middle" font-weight="bold">Frugal Scientific</text>
   </g>
 
-  <!-- Planet 3 -->
+  <!-- Planet 3: System Engineer -->
   <g transform="translate(400, 75)">
-    <circle cx="0" cy="0" r="10" fill="#FFFDF8" stroke="#FFB800" stroke-width="3"/>
+    <circle cx="0" cy="0" r="10" fill="#FCFBF7" stroke="#FFB800" stroke-width="3"/>
     <circle cx="0" cy="0" r="5" fill="#FFC83D"/>
     <text x="0" y="-18" class="timeline-title" text-anchor="middle">SYSTEM ENGINEER</text>
     <text x="0" y="22" class="timeline-date" text-anchor="middle">Jun 25 - Apr 26</text>
     <text x="0" y="34" class="timeline-date" text-anchor="middle" font-weight="bold">Cognizant</text>
   </g>
 
-  <!-- Planet 4 -->
+  <!-- Planet 4: MSc Data Science -->
   <g transform="translate(560, 75)">
-    <circle cx="0" cy="0" r="10" fill="#FFFDF8" stroke="#FFB800" stroke-width="3"/>
+    <circle cx="0" cy="0" r="10" fill="#FCFBF7" stroke="#FFB800" stroke-width="3"/>
     <circle cx="0" cy="0" r="5" fill="#FFC83D"/>
     <text x="0" y="-18" class="timeline-title" text-anchor="middle">M.SC DATA SCIENCE</text>
     <text x="0" y="22" class="timeline-date" text-anchor="middle">2026 - Present</text>

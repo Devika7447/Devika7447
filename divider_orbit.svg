@@ -1,0 +1,15 @@
+<svg width="830" height="60" viewBox="0 0 830 60" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <!-- Orbit Ring Segment -->
+  <path d="M 100 45 C 250 15, 580 15, 730 45" stroke="#FFC83D" stroke-width="2" stroke-dasharray="8 4" opacity="0.6"/>
+
+  <!-- Glowing Crescent Moon -->
+  <g transform="translate(415, 20)">
+    <path d="M 0 -10 A 10 10 0 1 0 10 10 A 8 8 0 1 1 0 -10 Z" fill="#FFB800" transform="rotate(-30)"/>
+    <!-- Glow -->
+    <circle cx="2" cy="2" r="14" fill="#FFC83D" opacity="0.15"/>
+  </g>
+
+  <!-- Small Stars -->
+  <circle cx="250" cy="25" r="1.5" fill="#222222" opacity="0.2"/>
+  <circle cx="580" cy="28" r="1" fill="#222222" opacity="0.2"/>
+</svg>

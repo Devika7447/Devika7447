@@ -37,8 +37,7 @@
     </style>
   </defs>
 
-  <!-- Background and border -->
-  <rect x="2" y="2" width="826" height="416" rx="16" fill="#FFFDF8" stroke="#FFC83D" stroke-width="2"/>
+  <!-- Transparent background, no card/border container -->
 
   <!-- Orbiting Lines (Dashed Gray Circles) -->
   <circle cx="415" cy="210" r="75" stroke="#E5E0D8" stroke-width="1.5" stroke-dasharray="4 4"/>
@@ -63,7 +62,7 @@
     <g transform="translate(415, 285)">
       <circle cx="0" cy="0" r="14" fill="#FFB800"/>
       <text x="0" y="4" font-size="9" fill="#0B0B0B" font-weight="bold" text-anchor="middle">SQL</text>
-      <text x="0" y="25" class="planet-label" text-anchor="middle">SQL</text>
+      <text x="0" y="25" class="planet-label" text-anchor="middle">SQL Planet</text>
     </g>
   </g>
 
@@ -73,28 +72,28 @@
     <g transform="translate(280, 210)">
       <circle cx="0" cy="0" r="16" fill="#F2C811"/>
       <text x="0" y="4" font-size="10" fill="#000" font-weight="bold" text-anchor="middle">BI</text>
-      <text x="0" y="-20" class="planet-label" text-anchor="middle">Power BI</text>
+      <text x="0" y="-20" class="planet-label" text-anchor="middle">Power BI Planet</text>
     </g>
 
     <!-- Excel Planet -->
     <g transform="translate(550, 210)">
       <circle cx="0" cy="0" r="14" fill="#107C41"/>
       <text x="0" y="4" font-size="10" fill="#FFF" font-weight="bold" text-anchor="middle">XL</text>
-      <text x="0" y="24" class="planet-label" text-anchor="middle">Excel</text>
+      <text x="0" y="24" class="planet-label" text-anchor="middle">Excel Planet</text>
     </g>
 
     <!-- Streamlit Planet -->
     <g transform="translate(415, 75)">
       <circle cx="0" cy="0" r="15" fill="#FF4B4B"/>
       <text x="0" y="4" font-size="9" fill="#FFF" font-weight="bold" text-anchor="middle">St</text>
-      <text x="0" y="-20" class="planet-label" text-anchor="middle">Streamlit</text>
+      <text x="0" y="-20" class="planet-label" text-anchor="middle">Streamlit Planet</text>
     </g>
 
     <!-- Snowflake Planet -->
     <g transform="translate(415, 345)">
       <circle cx="0" cy="0" r="14" fill="#29B6F6"/>
       <text x="0" y="4" font-size="9" fill="#FFF" font-weight="bold" text-anchor="middle">Sf</text>
-      <text x="0" y="24" class="planet-label" text-anchor="middle">Snowflake</text>
+      <text x="0" y="24" class="planet-label" text-anchor="middle">Snowflake Planet</text>
     </g>
   </g>
 
@@ -103,13 +102,13 @@
     <!-- Git Planet -->
     <g transform="translate(220, 210)">
       <circle cx="0" cy="0" r="12" fill="#F1502F"/>
-      <text x="0" y="-16" class="planet-label" text-anchor="middle">Git</text>
+      <text x="0" y="-16" class="planet-label" text-anchor="middle">Git Planet</text>
     </g>
 
     <!-- GitHub Planet -->
     <g transform="translate(610, 210)">
       <circle cx="0" cy="0" r="12" fill="#222222"/>
-      <text x="0" y="22" class="planet-label" text-anchor="middle">GitHub</text>
+      <text x="0" y="22" class="planet-label" text-anchor="middle">GitHub Planet</text>
     </g>
 
     <!-- LangChain Galaxy -->

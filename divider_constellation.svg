@@ -1,0 +1,22 @@
+<svg width="830" height="60" viewBox="0 0 830 60" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <!-- Winding Constellation Line -->
+  <path d="M 50 30 Q 200 10 415 30 T 780 30" stroke="#E5E0D8" stroke-width="1.5" stroke-dasharray="4 4"/>
+  
+  <!-- Star Nodes -->
+  <circle cx="150" cy="18" r="3" fill="#FFC83D"/>
+  <circle cx="300" cy="22" r="2" fill="#FFB800"/>
+  <circle cx="500" cy="38" r="2.5" fill="#FFC83D"/>
+  <circle cx="650" cy="20" r="3" fill="#FFB800"/>
+
+  <!-- Orbiting Satellite Icon -->
+  <g transform="translate(415, 30)">
+    <circle cx="0" cy="0" r="4" fill="#FFB800"/>
+    <line x1="-10" y1="0" x2="10" y2="0" stroke="#FFC83D" stroke-width="1.5"/>
+    <rect x="-14" y="-3" width="4" height="6" fill="#666"/>
+    <rect x="10" y="-3" width="4" height="6" fill="#666"/>
+  </g>
+
+  <!-- Sparkles -->
+  <path d="M 220 40 L 222 43 L 225 44 L 222 45 L 220 48 L 218 45 L 215 44 L 218 43 Z" fill="#FFB800" opacity="0.6"/>
+  <path d="M 580 15 L 581 17 L 583 18 L 581 19 L 580 21 L 579 19 L 577 18 L 579 17 Z" fill="#FFC83D" opacity="0.6"/>
+</svg>
