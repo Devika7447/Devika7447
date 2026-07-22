@@ -59,7 +59,7 @@
 </table>
 </td>
 <td width="45%" align="center" valign="middle" style="padding-left: 20px;">
-<img src="whoami_astronaut.png" width="300" alt="Astronaut observing dashboards">
+<img src="whoami_astronaut.png" width="300" alt="Cartoon astrologer looking at stars with a telescope">
 </td>
 </tr>
 </table>
