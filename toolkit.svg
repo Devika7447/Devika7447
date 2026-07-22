@@ -1,0 +1,129 @@
+<svg width="830" height="420" viewBox="0 0 830 420" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <style>
+      @import url('https://fonts.googleapis.com/css2?family=Share+Tech+Mono&amp;family=Plus+Jakarta+Sans:wght@400;700&amp;display=swap');
+      .sans-font {
+        font-family: 'Plus Jakarta Sans', sans-serif;
+      }
+      .mono-font {
+        font-family: 'Share Tech Mono', monospace;
+      }
+      @keyframes orbit-cw {
+        from { transform: rotate(0deg); }
+        to { transform: rotate(360deg); }
+      }
+      @keyframes orbit-ccw {
+        from { transform: rotate(360deg); }
+        to { transform: rotate(0deg); }
+      }
+      .orbit-1 {
+        animation: orbit-cw 40s linear infinite;
+        transform-origin: 415px 210px;
+      }
+      .orbit-2 {
+        animation: orbit-ccw 60s linear infinite;
+        transform-origin: 415px 210px;
+      }
+      .orbit-3 {
+        animation: orbit-cw 80s linear infinite;
+        transform-origin: 415px 210px;
+      }
+      .planet-label {
+        font-family: 'Plus Jakarta Sans', sans-serif;
+        font-size: 11px;
+        font-weight: bold;
+        fill: #222222;
+      }
+    </style>
+  </defs>
+
+  <!-- Background and border -->
+  <rect x="2" y="2" width="826" height="416" rx="16" fill="#FFFDF8" stroke="#FFC83D" stroke-width="2"/>
+
+  <!-- Orbiting Lines (Dashed Gray Circles) -->
+  <circle cx="415" cy="210" r="75" stroke="#E5E0D8" stroke-width="1.5" stroke-dasharray="4 4"/>
+  <circle cx="415" cy="210" r="135" stroke="#E5E0D8" stroke-width="1.5" stroke-dasharray="4 4"/>
+  <circle cx="415" cy="210" r="195" stroke="#E5E0D8" stroke-width="1.5" stroke-dasharray="4 4"/>
+
+  <!-- Center Sun: Devika's Toolkit -->
+  <circle cx="415" cy="210" r="40" fill="#FFC83D" stroke="#FFB800" stroke-width="3"/>
+  <text x="415" y="208" class="sans-font" font-size="12" font-weight="bold" fill="#0B0B0B" text-anchor="middle">DEV'S</text>
+  <text x="415" y="222" class="sans-font" font-size="10" font-weight="bold" fill="#0B0B0B" text-anchor="middle">TOOLKIT</text>
+
+  <!-- Orbit 1: Inner Orbit (Python & SQL) -->
+  <g class="orbit-1">
+    <!-- Python Planet -->
+    <g transform="translate(415, 135)">
+      <circle cx="0" cy="0" r="14" fill="#3776AB"/>
+      <text x="0" y="4" font-size="9" fill="#FFF" font-weight="bold" text-anchor="middle">Py</text>
+      <text x="0" y="-18" class="planet-label" text-anchor="middle">Python</text>
+    </g>
+
+    <!-- SQL Planet -->
+    <g transform="translate(415, 285)">
+      <circle cx="0" cy="0" r="14" fill="#FFB800"/>
+      <text x="0" y="4" font-size="9" fill="#0B0B0B" font-weight="bold" text-anchor="middle">SQL</text>
+      <text x="0" y="25" class="planet-label" text-anchor="middle">SQL</text>
+    </g>
+  </g>
+
+  <!-- Orbit 2: Middle Orbit (Power BI, Excel, Streamlit, Snowflake) -->
+  <g class="orbit-2">
+    <!-- Power BI Planet -->
+    <g transform="translate(280, 210)">
+      <circle cx="0" cy="0" r="16" fill="#F2C811"/>
+      <text x="0" y="4" font-size="10" fill="#000" font-weight="bold" text-anchor="middle">BI</text>
+      <text x="0" y="-20" class="planet-label" text-anchor="middle">Power BI</text>
+    </g>
+
+    <!-- Excel Planet -->
+    <g transform="translate(550, 210)">
+      <circle cx="0" cy="0" r="14" fill="#107C41"/>
+      <text x="0" y="4" font-size="10" fill="#FFF" font-weight="bold" text-anchor="middle">XL</text>
+      <text x="0" y="24" class="planet-label" text-anchor="middle">Excel</text>
+    </g>
+
+    <!-- Streamlit Planet -->
+    <g transform="translate(415, 75)">
+      <circle cx="0" cy="0" r="15" fill="#FF4B4B"/>
+      <text x="0" y="4" font-size="9" fill="#FFF" font-weight="bold" text-anchor="middle">St</text>
+      <text x="0" y="-20" class="planet-label" text-anchor="middle">Streamlit</text>
+    </g>
+
+    <!-- Snowflake Planet -->
+    <g transform="translate(415, 345)">
+      <circle cx="0" cy="0" r="14" fill="#29B6F6"/>
+      <text x="0" y="4" font-size="9" fill="#FFF" font-weight="bold" text-anchor="middle">Sf</text>
+      <text x="0" y="24" class="planet-label" text-anchor="middle">Snowflake</text>
+    </g>
+  </g>
+
+  <!-- Orbit 3: Outer Orbit (Git, GitHub, LangChain Galaxy, Gemini Star, Apache Superset) -->
+  <g class="orbit-3">
+    <!-- Git Planet -->
+    <g transform="translate(220, 210)">
+      <circle cx="0" cy="0" r="12" fill="#F1502F"/>
+      <text x="0" y="-16" class="planet-label" text-anchor="middle">Git</text>
+    </g>
+
+    <!-- GitHub Planet -->
+    <g transform="translate(610, 210)">
+      <circle cx="0" cy="0" r="12" fill="#222222"/>
+      <text x="0" y="22" class="planet-label" text-anchor="middle">GitHub</text>
+    </g>
+
+    <!-- LangChain Galaxy -->
+    <g transform="translate(415, 15)">
+      <circle cx="0" cy="0" r="18" fill="#E5E0D8" stroke="#FFC83D" stroke-width="2"/>
+      <text x="0" y="4" font-size="8" fill="#222" font-weight="bold" text-anchor="middle">LC</text>
+      <text x="0" y="-22" class="planet-label" text-anchor="middle">LangChain Galaxy</text>
+    </g>
+
+    <!-- Gemini Star -->
+    <g transform="translate(415, 405)">
+      <circle cx="0" cy="0" r="13" fill="#8E24AA"/>
+      <text x="0" y="4" font-size="8" fill="#FFF" font-weight="bold" text-anchor="middle">Gem</text>
+      <text x="0" y="22" class="planet-label" text-anchor="middle">Gemini Star</text>
+    </g>
+  </g>
+</svg>

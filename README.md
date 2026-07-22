@@ -1,192 +1,167 @@
-<!-- Space Explorer meets Data & AI Profile -->
+<!-- Immersive Developer Portfolio: MISSION DEVIKA -->
 <div align="center">
-  <!-- Custom High-Fidelity self-contained terminal card -->
-  <img src="vit_space_explorer.svg" width="100%" alt="VIT Space Explorer - Devika J Nair">
-  
-  <br><br>
-  
-  <!-- Subtitle Typing Animation -->
-  <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Comic+Sans+MS&amp;color=FFC83D&amp;size=20&amp;center=true&amp;vCenter=true&amp;width=450&amp;lines=Business+Analyst;AI+Enthusiast;Data+Storyteller;Building+with+Python;Always+Learning" alt="Typing Subtitle">
-  </a>
-  
-  <br>
-  
-  <!-- LinkedIn Contact Badge -->
-  <a href="https://linkedin.com/in/devikajnair" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-FFC83D?style=for-the-badge&amp;logo=linkedin&amp;logoColor=0B0B0B" alt="LinkedIn Connect">
-  </a>
+  <!-- Hero Section SVG Card -->
+  <img src="hero.svg" width="100%" alt="Mission Devika Hero">
 </div>
 
-***
-
-## 🛰️ MISSION STATUS (Telemetry Grid)
+<br>
 
 <div align="center">
-  <table width="95%" style="border-collapse: collapse; border: 1px solid #FFC83D;">
-    <thead>
-      <tr style="background-color: #0B0B0B; border-bottom: 2px solid #FFC83D;">
-        <th align="left" style="padding: 10px; color: #FFC83D; font-family: monospace;">📡 Telemetry Parameter</th>
-        <th align="left" style="padding: 10px; color: #F7F7F7; font-family: monospace;">🚀 Active Log Entry</th>
-      </tr>
-    </thead>
-    <tbody>
-      <tr style="border-bottom: 1px solid #333;">
-        <td style="padding: 10px; font-family: monospace;"><strong>🎓 Current Mission</strong></td>
-        <td style="padding: 10px; color: #F7F7F7; font-family: monospace;">M.Sc. Data Science (VIT Vellore) 🎓</td>
-      </tr>
-      <tr style="border-bottom: 1px solid #333;">
-        <td style="padding: 10px; font-family: monospace;"><strong>🎓 Previous Mission</strong></td>
-        <td style="padding: 10px; color: #F7F7F7; font-family: monospace;">B.Voc Data Science (St. Thomas College, CGPA: 9.1) 🎓</td>
-      </tr>
-      <tr style="border-bottom: 1px solid #333;">
-        <td style="padding: 10px; font-family: monospace;"><strong>🎯 Target Destination</strong></td>
-        <td style="padding: 10px; color: #F7F7F7; font-family: monospace;">Business Analyst | Data Analyst | AI Solutions</td>
-      </tr>
-      <tr style="border-bottom: 1px solid #333;">
-        <td style="padding: 10px; font-family: monospace;"><strong>📍 Location</strong></td>
-        <td style="padding: 10px; color: #F7F7F7; font-family: monospace;">Kerala, India 📍</td>
-      </tr>
-      <tr style="border-bottom: 1px solid #333;">
-        <td style="padding: 10px; font-family: monospace;"><strong>💼 Experience</strong></td>
-        <td style="padding: 10px; color: #F7F7F7; font-family: monospace;">Former Junior System Engineer at Cognizant 💼</td>
-      </tr>
-      <tr>
-        <td style="padding: 10px; font-family: monospace;"><strong>⚡ Current Objective</strong></td>
-        <td style="padding: 10px; color: #F7F7F7; font-family: monospace;">Building AI-powered solutions that solve real business problems.</td>
-      </tr>
-    </tbody>
-  </table>
+  <!-- Mission Dashboard Telemetry SVG Card -->
+  <img src="dashboard.svg" width="100%" alt="Mission Dashboard Telemetry">
 </div>
 
 ***
 
 ## 🦜 WHO AM I
 
-```text
-A cozy space explorer mapping data constellations and translating complex system metrics
-into human-readable business narratives. 
-
-* 💧 Hydration Enthusiast — Sustained by H₂O to keep the cognitive engines running at nominal levels.
-* 📊 Dashboard Enthusiast — Crafting beautiful, high-fidelity visualization cockpits.
-* 🧩 Problem Solver — Debugging pipeline anomalies and restructuring business strategies.
-* 🌌 AI Explorer — Traversing the Generative AI and Large Language Model universe.
-* 📈 Continuous Learner — Always upgrading flight logs, system configurations, and frameworks.
-```
+<table width="100%" border="0" cellspacing="0" cellpadding="0">
+  <tr>
+    <td width="55%" valign="top">
+      <table width="100%" border="0" cellspacing="8" cellpadding="12">
+        <tr>
+          <td bgcolor="#FFFDF8" style="border-radius: 8px;">
+            <strong style="color: #FFB800; font-family: sans-serif; font-size: 16px;">☕ Coffee Lover</strong>
+            <p style="color: #666666; font-family: sans-serif; font-size: 14px; margin: 4px 0 0 0;">Fueling late-night analytical runs and debugging system logs.</p>
+          </td>
+        </tr>
+        <tr>
+          <td bgcolor="#FFFDF8" style="border-radius: 8px;">
+            <strong style="color: #FFB800; font-family: sans-serif; font-size: 16px;">🧩 Problem Solver</strong>
+            <p style="color: #666666; font-family: sans-serif; font-size: 14px; margin: 4px 0 0 0;">Restructuring business requirements and workflows logically.</p>
+          </td>
+        </tr>
+        <tr>
+          <td bgcolor="#FFFDF8" style="border-radius: 8px;">
+            <strong style="color: #FFB800; font-family: sans-serif; font-size: 16px;">💡 Business Thinker</strong>
+            <p style="color: #666666; font-family: sans-serif; font-size: 14px; margin: 4px 0 0 0;">Translating complex analytics into actionable executive telemetry.</p>
+          </td>
+        </tr>
+        <tr>
+          <td bgcolor="#FFFDF8" style="border-radius: 8px;">
+            <strong style="color: #FFB800; font-family: sans-serif; font-size: 16px;">📊 Dashboard Enthusiast</strong>
+            <p style="color: #666666; font-family: sans-serif; font-size: 14px; margin: 4px 0 0 0;">Designing clean visualization cockpits that tell clear stories.</p>
+          </td>
+        </tr>
+        <tr>
+          <td bgcolor="#FFFDF8" style="border-radius: 8px;">
+            <strong style="color: #FFB800; font-family: sans-serif; font-size: 16px;">🤖 AI Explorer</strong>
+            <p style="color: #666666; font-family: sans-serif; font-size: 14px; margin: 4px 0 0 0;">Mapping Generative AI capabilities to actual operational metrics.</p>
+          </td>
+        </tr>
+      </table>
+    </td>
+    <td width="45%" align="center" valign="middle" style="padding-left: 20px;">
+      <!-- Cozy Astronaut observing dashboards picture -->
+      <img src="whoami_astronaut.png" width="340" style="border-radius: 12px;" alt="Astronaut observing dashboards">
+    </td>
+  </tr>
+</table>
 
 ***
 
-## 🌌 MY UNIVERSE (Tech Stack)
-
-<p align="center">
-  <img src="https://img.shields.io/badge/Python-FFC83D?logo=python&amp;logoColor=0B0B0B&amp;style=for-the-badge" alt="Python" />
-  <img src="https://img.shields.io/badge/SQL-FFB300?logo=databricks&amp;logoColor=0B0B0B&amp;style=for-the-badge" alt="SQL" />
-  <img src="https://img.shields.io/badge/Power_BI-FFC83D?logo=powerbi&amp;logoColor=0B0B0B&amp;style=for-the-badge" alt="Power BI" />
-  <img src="https://img.shields.io/badge/Streamlit-FFB300?logo=streamlit&amp;logoColor=0B0B0B&amp;style=for-the-badge" alt="Streamlit" />
-  <img src="https://img.shields.io/badge/LangChain-FFC83D?logo=chainlink&amp;logoColor=0B0B0B&amp;style=for-the-badge" alt="LangChain" />
-  <img src="https://img.shields.io/badge/Gemini_API-FFB300?logo=google-gemini&amp;logoColor=0B0B0B&amp;style=for-the-badge" alt="Gemini" />
-  <img src="https://img.shields.io/badge/Snowflake-FFC83D?logo=snowflake&amp;logoColor=0B0B0B&amp;style=for-the-badge" alt="Snowflake" />
-  <img src="https://img.shields.io/badge/Git-FFB300?logo=git&amp;logoColor=0B0B0B&amp;style=for-the-badge" alt="Git" />
-  <img src="https://img.shields.io/badge/Docker-FFC83D?logo=docker&amp;logoColor=0B0B0B&amp;style=for-the-badge" alt="Docker" />
-  <img src="https://img.shields.io/badge/Superset-FFB300?logo=apache&amp;logoColor=0B0B0B&amp;style=for-the-badge" alt="Superset" />
-</p>
-
-***
-
-## 🚀 PROJECT MISSIONS & FLIGHT LOG
-
-### 🌌 Active Projects
+## 🚀 FEATURED MISSIONS
 
 <div align="center">
-  <table width="100%">
-    <tr>
-      <!-- Project 1 -->
-      <td width="50%" valign="top" style="border: 1px solid #FFB300; border-radius: 8px; padding: 15px; background: #0B0B0B0a;">
-        <h3 style="font-family: monospace;">🤖 AI Resume Match Assistant</h3>
-        <img src="https://img.shields.io/badge/Mission-Complete-FFC83D?style=flat-square&amp;logoColor=0B0B0B" alt="Mission Complete">
-        <p style="color: #666; font-size: 0.9em; min-height: 50px; font-family: monospace;">An intelligent screening application utilizing semantic matching to evaluate resumes against target job profiles.</p>
-        <div>
-          <img src="https://img.shields.io/badge/LangChain-FFB300?style=flat-square&amp;logoColor=0B0B0B" alt="LangChain">
-          <img src="https://img.shields.io/badge/Gemini-FFC83D?style=flat-square&amp;logoColor=0B0B0B" alt="Gemini">
-          <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&amp;logo=python&amp;logoColor=white" alt="Python">
-        </div>
-      </td>
-      <!-- Project 2 -->
-      <td width="50%" valign="top" style="border: 1px solid #FFB300; border-radius: 8px; padding: 15px; background: #0B0B0B0a;">
-        <h3 style="font-family: monospace;">📈 Retail Sales Analytics</h3>
-        <img src="https://img.shields.io/badge/Mission-Active-FFB300?style=flat-square&amp;logoColor=0B0B0B" alt="Active">
-        <p style="color: #666; font-size: 0.9em; min-height: 50px; font-family: monospace;">An analytical dashboard exploring historical sales records, identifying top product categories, and modeling seasonal demand variations.</p>
-        <div>
-          <img src="https://img.shields.io/badge/Power_BI-F2C811?style=flat-square&amp;logo=powerbi&amp;logoColor=black" alt="Power BI">
-          <img src="https://img.shields.io/badge/SQL-003B57?style=flat-square&amp;logo=sqlite&amp;logoColor=white" alt="SQL">
-          <img src="https://img.shields.io/badge/Excel-107C41?style=flat-square&amp;logo=microsoftexcel&amp;logoColor=white" alt="Excel">
-        </div>
-      </td>
-    </tr>
-    <tr>
-      <!-- Project 3 -->
-      <td width="50%" valign="top" style="border: 1px solid #FFB300; border-radius: 8px; padding: 15px; background: #0B0B0B0a;">
-        <h3 style="font-family: monospace;">🌍 Global Tracking</h3>
-        <img src="https://img.shields.io/badge/Mission-Active-FFC83D?style=flat-square&amp;logoColor=0B0B0B" alt="Active">
-        <p style="color: #666; font-size: 0.9em; min-height: 50px; font-family: monospace;">Geospatial insights and route mapping dashboard built to track shipment logistics across international freight corridors.</p>
-        <div>
-          <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&amp;logo=python&amp;logoColor=white" alt="Python">
-          <img src="https://img.shields.io/badge/Pandas-150458?style=flat-square&amp;logo=pandas&amp;logoColor=white" alt="Pandas">
-          <img src="https://img.shields.io/badge/Folium-78A9FF?style=flat-square&amp;logo=leaflet&amp;logoColor=black" alt="Folium">
-        </div>
-      </td>
-      <!-- Project 4 -->
-      <td width="50%" valign="top" style="border: 1px solid #FFB300; border-radius: 8px; padding: 15px; background: #0B0B0B0a;">
-        <h3 style="font-family: monospace;">🩺 Diabetes Prediction</h3>
-        <img src="https://img.shields.io/badge/Mission-Complete-FFB300?style=flat-square&amp;logoColor=0B0B0B" alt="Complete">
-        <p style="color: #666; font-size: 0.9em; min-height: 50px; font-family: monospace;">A predictive health pipeline utilizing classification algorithms to determine diabetes susceptibility from patient records.</p>
-        <div>
-          <img src="https://img.shields.io/badge/Scikit--Learn-F7931E?style=flat-square&amp;logo=scikit-learn&amp;logoColor=white" alt="Scikit-Learn">
-          <img src="https://img.shields.io/badge/Streamlit-FF4B4B?style=flat-square&amp;logo=streamlit&amp;logoColor=white" alt="Streamlit">
-          <img src="https://img.shields.io/badge/Machine_Learning-008080?style=flat-square&amp;logoColor=white" alt="ML">
-        </div>
-      </td>
-    </tr>
-  </table>
+  <!-- Rocket Launch Animation GIF -->
+  <img src="projects_launch.gif" width="165" style="margin-bottom: 20px;" alt="Missions Launching">
 </div>
 
-### 🛰️ Journey Timeline (Flight Log)
+<table width="100%" border="0" cellspacing="8" cellpadding="0">
+  <tr>
+    <!-- Mission 01 -->
+    <td width="50%" bgcolor="#FFFDF8" valign="top" style="padding: 20px; border-radius: 12px; border: 1px solid #FFC83D;">
+      <span style="font-size: 10px; font-weight: bold; color: #FFB800; font-family: monospace;">MISSION 01 • COMPLETE 🏆</span>
+      <h3 style="margin: 5px 0 10px 0; color: #222222; font-family: sans-serif;">🤖 AI Resume Job Match Assistant</h3>
+      <p style="color: #666666; font-size: 14px; font-family: sans-serif; min-height: 60px; margin: 0 0 15px 0;">
+        An intelligent auditing platform evaluating resumes against target profiles using LLM semantic structures.
+      </p>
+      <div style="margin-bottom: 15px;">
+        <img src="https://img.shields.io/badge/LangChain-FFC83D?style=flat-square&amp;logoColor=0B0B0B" alt="LangChain">
+        <img src="https://img.shields.io/badge/Gemini_API-FFB800?style=flat-square&amp;logoColor=0B0B0B" alt="Gemini">
+        <img src="https://img.shields.io/badge/Python-F0ECE3?style=flat-square&amp;logoColor=222" alt="Python">
+      </div>
+      <a href="https://github.com/Devika7447/AI-Resume-Job-Match-Assistant" target="_blank" style="text-decoration: none; font-weight: bold; color: #FFB800; font-family: monospace; font-size: 13px;">🚀 LAUNCH MISSION</a>
+    </td>
 
-<div align="center">
-  <!-- Cozy line-art rocket illustration hosted locally in repository -->
-  <img src="cozy_rocket.png" width="150" alt="Cozy Space Rocket">
-</div>
+    <!-- Mission 02 -->
+    <td width="50%" bgcolor="#FFFDF8" valign="top" style="padding: 20px; border-radius: 12px; border: 1px solid #FFC83D;">
+      <span style="font-size: 10px; font-weight: bold; color: #FFB800; font-family: monospace;">MISSION 02 • ACTIVE 📡</span>
+      <h3 style="margin: 5px 0 10px 0; color: #222222; font-family: sans-serif;">📊 Retail Sales Analytics</h3>
+      <p style="color: #666666; font-size: 14px; font-family: sans-serif; min-height: 60px; margin: 0 0 15px 0;">
+        Interactive operational dashboards revealing demand shifts, top segments, and pricing anomalies.
+      </p>
+      <div style="margin-bottom: 15px;">
+        <img src="https://img.shields.io/badge/Power_BI-FFC83D?style=flat-square&amp;logoColor=0B0B0B" alt="Power BI">
+        <img src="https://img.shields.io/badge/SQL-FFB800?style=flat-square&amp;logoColor=0B0B0B" alt="SQL">
+        <img src="https://img.shields.io/badge/Excel-F0ECE3?style=flat-square" alt="Excel">
+      </div>
+      <a href="#" style="text-decoration: none; font-weight: bold; color: #FFB800; font-family: monospace; font-size: 13px;">🚀 LAUNCH MISSION</a>
+    </td>
+  </tr>
+  <tr>
+    <!-- Mission 03 -->
+    <td width="50%" bgcolor="#FFFDF8" valign="top" style="padding: 20px; border-radius: 12px; border: 1px solid #FFC83D;">
+      <span style="font-size: 10px; font-weight: bold; color: #FFB800; font-family: monospace;">MISSION 03 • ACTIVE 🛰️</span>
+      <h3 style="margin: 5px 0 10px 0; color: #222222; font-family: sans-serif;">🌍 Global Tracking Dashboard</h3>
+      <p style="color: #666666; font-size: 14px; font-family: sans-serif; min-height: 60px; margin: 0 0 15px 0;">
+        Geospatial tracking analytics modeling latency across international logistics lanes.
+      </p>
+      <div style="margin-bottom: 15px;">
+        <img src="https://img.shields.io/badge/Python-FFC83D?style=flat-square&amp;logoColor=0B0B0B" alt="Python">
+        <img src="https://img.shields.io/badge/Superset-FFB800?style=flat-square&amp;logoColor=0B0B0B" alt="Superset">
+        <img src="https://img.shields.io/badge/Maps_API-F0ECE3?style=flat-square" alt="Maps">
+      </div>
+      <a href="#" style="text-decoration: none; font-weight: bold; color: #FFB800; font-family: monospace; font-size: 13px;">🚀 LAUNCH MISSION</a>
+    </td>
 
-```text
- [ 2026 - Present ]  ═══ M.Sc. Data Science at VIT Vellore (Current Mission) 🎓
-                            ├── Advanced Machine Learning & Predictive Modeling
-                            └── Deep Space Exploration in Data & AI
-                            
- [ Jun 2025 - Apr 2026 ] ═ Junior System Engineer at Cognizant 💼
-                            ├── Server operations and performance telemetry
-                            └── Automating logs & maintaining application stacks
-                            
- [ Feb 2025 - May 2025 ] ═ Business Intelligence Intern at Frugal Scientific 📊
-                            ├── Designed interactive dashboards
-                            └── Performed cohort analysis and trend forecasting
-                            
- [ Apr 2024 - Jun 2024 ] ═ Digital Strategy Intern at InHouse Agency 🌐
-                            ├── Audited advertising trajectories
-                            └── Developed data-backed growth recommendations
-```
+    <!-- Mission 04 -->
+    <td width="50%" bgcolor="#FFFDF8" valign="top" style="padding: 20px; border-radius: 12px; border: 1px solid #FFC83D;">
+      <span style="font-size: 10px; font-weight: bold; color: #FFB800; font-family: monospace;">MISSION 04 • COMPLETE 🩺</span>
+      <h3 style="margin: 5px 0 10px 0; color: #222222; font-family: sans-serif;">🩺 Diabetes Prediction MLP</h3>
+      <p style="color: #666666; font-size: 14px; font-family: sans-serif; min-height: 60px; margin: 0 0 15px 0;">
+        Machine learning classification models forecasting patient metrics using multi-layer perceptron neural networks.
+      </p>
+      <div style="margin-bottom: 15px;">
+        <img src="https://img.shields.io/badge/Python-FFC83D?style=flat-square&amp;logoColor=0B0B0B" alt="Python">
+        <img src="https://img.shields.io/badge/ML-FFB800?style=flat-square&amp;logoColor=0B0B0B" alt="ML">
+        <img src="https://img.shields.io/badge/TensorFlow-F0ECE3?style=flat-square" alt="Tensorflow">
+      </div>
+      <a href="#" style="text-decoration: none; font-weight: bold; color: #FFB800; font-family: monospace; font-size: 13px;">🚀 LAUNCH MISSION</a>
+    </td>
+  </tr>
+</table>
 
 ***
 
-## 📊 MISSION ANALYTICS (GitHub Stats)
+## 🪐 EXPLORER'S TOOLKIT
 
 <div align="center">
-  <table border="0">
+  <!-- Interactive slowly orbiting planets toolkit -->
+  <img src="toolkit.svg" width="100%" alt="Devika's Orbiting Toolkit">
+</div>
+
+***
+
+## 🚀 MISSION JOURNEY
+
+<div align="center">
+  <!-- Rocket Timeline Journey between planets -->
+  <img src="journey.svg" width="100%" alt="Career Mission Journey">
+</div>
+
+***
+
+## 📊 MISSION ANALYTICS
+
+<div align="center">
+  <table border="0" cellspacing="10" cellpadding="0">
     <tr>
-      <td align="center" valign="top">
-        <img src="https://github-readme-stats.vercel.app/api?username=Devika7447&amp;show_icons=true&amp;bg_color=0B0B0B&amp;title_color=FFC83D&amp;text_color=F7F7F7&amp;icon_color=FFB300&amp;border_color=FFC83D&amp;hide_border=false" alt="Devika's GitHub Stats" height="195">
+      <td align="center" valign="top" bgcolor="#FFFDF8" style="border: 1px solid #FFC83D; border-radius: 12px; padding: 15px;">
+        <img src="https://github-readme-stats.vercel.app/api?username=Devika7447&amp;show_icons=true&amp;bg_color=FFFDF8&amp;title_color=FFB800&amp;text_color=222222&amp;icon_color=FFC83D&amp;border_color=FFFDF8&amp;hide_border=true" alt="Devika's GitHub Stats" height="195">
       </td>
-      <td align="center" valign="top">
-        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Devika7447&amp;layout=compact&amp;bg_color=0B0B0B&amp;title_color=FFC83D&amp;text_color=F7F7F7&amp;icon_color=FFB300&amp;border_color=FFC83D&amp;hide_border=false" alt="Devika's Top Languages" height="195">
+      <td align="center" valign="top" bgcolor="#FFFDF8" style="border: 1px solid #FFC83D; border-radius: 12px; padding: 15px;">
+        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Devika7447&amp;layout=compact&amp;bg_color=FFFDF8&amp;title_color=FFB800&amp;text_color=222222&amp;icon_color=FFC83D&amp;border_color=FFFDF8&amp;hide_border=true" alt="Devika's Top Languages" height="195">
       </td>
     </tr>
   </table>
@@ -194,65 +169,12 @@ into human-readable business narratives.
 
 <br>
 
-<!-- contribution snake animation grid SVG placeholder -->
 <div align="center">
-  <h3 style="font-family: monospace;">🐍 Contribution Orbit</h3>
-  <img src="https://raw.githubusercontent.com/Devika7447/Devika7447/output/github-contribution-grid-snake-dark.svg" alt="GitHub Contribution Snake" width="100%">
-  <p style="font-size: 0.85em; color: #666; font-family: monospace;">
-    <i>Note: This snake animation is dynamically generated using GitHub Actions. To activate it, configure the snake action in your repository.</i>
-  </p>
-</div>
-
-***
-
-## 🔬 RESEARCH LAB (Learning Goals)
-
-```text
-A status report on current research fields and modules under active study:
-
-- [x] Generative AI & RAG 🧠 — Creating context-aware LLM search patterns.
-- [/] Prompt Engineering ✍️ — Refining instructional design for zero/few-shot prompts.
-- [/] Advanced SQL & Analytics 💾 — Optimization of subqueries, window functions.
-- [ ] Project Management 🎯 — Mastering agile sprint design and delivery methodologies.
-- [ ] Cloud Deployments ☁️ — Launching containerized pipelines on AWS / GCP structures.
-
-*(Status Key: [x] Complete, [/] Underway, [ ] Pre-Launch)*
-```
-
-***
-
-## 🏆 ACHIEVEMENTS
-
-```text
-* 🥇 YIP District Winner
-* 🥈 State Level Participant
-```
-
-<div align="center">
-  <h4 style="font-family: monospace;">🏆 GitHub Orbit Trophies</h4>
-  <img src="https://github-profile-trophy.herokuapp.com/?username=Devika7447&amp;theme=darkhub&amp;no-bg=true&amp;no-frame=true" alt="Devika's Trophies" />
-</div>
-
-***
-
-## 🤝 CONNECT WITH ME
-
-<div align="center">
-  <table width="95%" border="0" style="border: 1px solid #FFC83D; border-radius: 10px; background-color: #0B0B0B; padding: 15px;">
+  <table width="95%" border="0" cellspacing="0" cellpadding="15" bgcolor="#FFFDF8" style="border: 1px solid #FFC83D; border-radius: 12px;">
     <tr>
-      <td width="60%" valign="middle" align="left" style="padding-left: 20px;">
-        <h3 style="color: #FFC83D; font-family: monospace; margin-top: 0;">✨ Let's connect and build something together!</h3>
-        <p style="color: #F7F7F7; font-family: monospace; font-size: 1.1em;">
-          I'm always open to discussing new data science missions, business analytics pipelines, or collaboration opportunities! 🛰️
-        </p>
-        <br>
-        <a href="https://linkedin.com/in/devikajnair" target="_blank">
-          <img src="https://img.shields.io/badge/LinkedIn-FFC83D?style=for-the-badge&amp;logo=linkedin&amp;logoColor=0B0B0B" alt="LinkedIn">
-        </a>
-      </td>
-      <td width="40%" align="center" valign="middle">
-        <!-- Direct use of vit_astronaut.png static picture -->
-        <img src="vit_astronaut.png" width="180" style="border-radius: 10px;" alt="VIT Space Explorer Astronaut">
+      <td align="center">
+        <h3 style="color: #222222; font-family: sans-serif; margin-top: 0;">🐍 Contribution Orbit</h3>
+        <img src="https://raw.githubusercontent.com/Devika7447/Devika7447/output/github-contribution-grid-snake-dark.svg" alt="GitHub Contribution Snake" width="100%">
       </td>
     </tr>
   </table>
@@ -260,39 +182,115 @@ A status report on current research fields and modules under active study:
 
 ***
 
-## 🧩 FUN FACTS & LIFE SUPPORT WIDGETS
+## 🧪 RESEARCH LAB
 
-### 🔋 LIFE SUPPORT FUEL GAUGE
-```text
-💧 Hydration : [███████████████████-] 95% (Nominal)
-🚀 Curiosity : [████████████████████] 100% (Critical Overflow)
-💤 Sleep     : [████████------------] 40% (Needs Recharging)
-```
+<table width="100%" border="0" cellspacing="0" cellpadding="0">
+  <tr>
+    <td width="45%" align="center" valign="middle" style="padding-right: 20px;">
+      <!-- Futuristic Science Lab Astronaut Illustration -->
+      <img src="research_lab.png" width="340" style="border-radius: 12px;" alt="Astronaut in research lab">
+    </td>
+    <td width="55%" valign="middle">
+      <h3 style="color: #FFB800; font-family: sans-serif; margin-top: 0;">Currently Investigating:</h3>
+      <table width="100%" border="0" cellspacing="6" cellpadding="10">
+        <tr>
+          <td bgcolor="#FFFDF8" style="border-radius: 8px; font-family: monospace; color: #222222;">
+            🧠 <strong>Generative AI</strong> • Large Language Models &amp; application pipelines.
+          </td>
+        </tr>
+        <tr>
+          <td bgcolor="#FFFDF8" style="border-radius: 8px; font-family: monospace; color: #222222;">
+            ⚡ <strong>RAG Architecture</strong> • Context-rich document retrievals.
+          </td>
+        </tr>
+        <tr>
+          <td bgcolor="#FFFDF8" style="border-radius: 8px; font-family: monospace; color: #222222;">
+            📝 <strong>Prompt Engineering</strong> • Programmatic system instructions.
+          </td>
+        </tr>
+        <tr>
+          <td bgcolor="#FFFDF8" style="border-radius: 8px; font-family: monospace; color: #222222;">
+            📊 <strong>Business Analytics</strong> • Advanced cohorts and telemetry modeling.
+          </td>
+        </tr>
+        <tr>
+          <td bgcolor="#FFFDF8" style="border-radius: 8px; font-family: monospace; color: #222222;">
+            ☁️ <strong>Cloud Systems</strong> • GCP &amp; AWS serverless applications.
+          </td>
+        </tr>
+        <tr>
+          <td bgcolor="#FFFDF8" style="border-radius: 8px; font-family: monospace; color: #222222;">
+            💾 <strong>Advanced SQL</strong> • Query tuning, analytical subqueries, and window functions.
+          </td>
+        </tr>
+      </table>
+    </td>
+  </tr>
+</table>
 
-### 🐱 COZY CODE CAT DEPLOYED
+***
+
+## 🏆 ACHIEVEMENTS
+
+<table width="100%" border="0" cellspacing="8" cellpadding="15">
+  <tr>
+    <td width="50%" bgcolor="#FFFDF8" style="border-radius: 8px; text-align: center; border: 1px solid #E5E0D8;">
+      <span style="font-size: 24px;">🥇</span>
+      <h4 style="margin: 5px 0; color: #222222; font-family: sans-serif;">YIP District Winner</h4>
+      <p style="color: #666666; font-size: 13px; font-family: sans-serif; margin: 0;">Young Innovators Program champion representing District levels.</p>
+    </td>
+    <td width="50%" bgcolor="#FFFDF8" style="border-radius: 8px; text-align: center; border: 1px solid #E5E0D8;">
+      <span style="font-size: 24px;">🥈</span>
+      <h4 style="margin: 5px 0; color: #222222; font-family: sans-serif;">State Level Participant</h4>
+      <p style="color: #666666; font-size: 13px; font-family: sans-serif; margin: 0;">Representing analytical case presentations at State level summits.</p>
+    </td>
+  </tr>
+</table>
+
+<br>
+
 <div align="center">
-  <!-- Cozy coding cat static picture -->
-  <img src="cozy_cat.png" width="220" alt="Cozy Coding Cat">
+  <h4 style="font-family: sans-serif; color: #666666; margin-bottom: 10px;">🏆 GitHub Orbit Trophies</h4>
+  <img src="https://github-profile-trophy.herokuapp.com/?username=Devika7447&amp;theme=flat&amp;no-bg=true&amp;no-frame=true&amp;margin-w=15" alt="Devika's Trophies" />
 </div>
 
-### 💾 SQL DEV JOKE DECK
-```sql
-SELECT status FROM developer_status;
--- [1] Row: "Running on caffeine, curiosity, and SQL subqueries."
+***
 
--- The Classic Join Dilemma:
-SELECT Devika, Coffee 
-FROM brain 
-OUTER JOIN kitchen ON brain.motivation = kitchen.caffeine_level 
-WHERE Devika.energy = 'critical_low';
--- Result: 'Coffee' successfully integrated. Space mission restored.
-```
+## 🛰️ MISSION CONTROL
+
+<div align="center">
+  <table width="95%" border="0" cellspacing="0" cellpadding="15" bgcolor="#FFFDF8" style="border: 1px solid #FFC83D; border-radius: 12px; padding: 15px;">
+    <tr>
+      <td width="60%" valign="middle" align="left" style="padding-left: 20px;">
+        <h3 style="color: #FFB800; font-family: sans-serif; margin-top: 0; font-size: 20px;">🤝 Connect with Mission Control</h3>
+        <p style="color: #222222; font-family: sans-serif; font-size: 15px; line-height: 1.5;">
+          Ready to launch new analytical pipelines, build AI systems, or collaborate on digital strategies? Let's connect! ⚡
+        </p>
+        <br>
+        <g>
+          <!-- LinkedIn Button -->
+          <a href="https://linkedin.com/in/devikajnair" target="_blank" style="text-decoration: none; margin-right: 10px;">
+            <img src="https://img.shields.io/badge/LinkedIn-FFC83D?style=for-the-badge&amp;logo=linkedin&amp;logoColor=0B0B0B" alt="LinkedIn">
+          </a>
+          <!-- Email Button -->
+          <a href="mailto:devumeri47@gmail.com" target="_blank" style="text-decoration: none;">
+            <img src="https://img.shields.io/badge/Email-FFB800?style=for-the-badge&amp;logo=gmail&amp;logoColor=0B0B0B" alt="Email">
+          </a>
+        </g>
+      </td>
+      <td width="40%" align="center" valign="middle">
+        <!-- Direct use of vit_astronaut.png static picture -->
+        <img src="vit_astronaut.png" width="180" style="border-radius: 12px;" alt="VIT Space Explorer Astronaut">
+      </td>
+    </tr>
+  </table>
+</div>
 
 ***
 
 <div align="center">
-  <!-- Footer static rocket illustration -->
-  <img src="cozy_rocket.png" width="80" alt="Rocket Blastoff"><br>
-  <i style="font-family: monospace;">"Always curious, always exploring."</i><br>
-  <strong style="font-family: monospace;">🛰️ Flight Command: Devika7447 | Kerala, India</strong>
+  <!-- Waving astronaut sitting on moon footer picture -->
+  <img src="footer_astronaut.png" width="150" alt="Footer Astronaut Moon"><br><br>
+  <h3 style="color: #222222; font-family: sans-serif; margin: 5px 0;">"Thanks for visiting Mission Devika."</h3>
+  <p style="color: #666666; font-family: sans-serif; margin: 5px 0; font-size: 15px;">Safe Travels, Explorer. 🛰️</p>
 </div>

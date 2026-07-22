@@ -1,0 +1,71 @@
+<svg width="830" height="200" viewBox="0 0 830 200" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <style>
+      @import url('https://fonts.googleapis.com/css2?family=Share+Tech+Mono&amp;family=Plus+Jakarta+Sans:wght@400;500;700&amp;display=swap');
+      .sans-font {
+        font-family: 'Plus Jakarta Sans', sans-serif;
+      }
+      .mono-font {
+        font-family: 'Share Tech Mono', monospace;
+      }
+      .label-text {
+        font-family: 'Plus Jakarta Sans', sans-serif;
+        font-weight: 700;
+        font-size: 11px;
+        fill: #FFB800;
+        letter-spacing: 1.5px;
+      }
+      .value-text {
+        font-family: 'Plus Jakarta Sans', sans-serif;
+        font-weight: 500;
+        font-size: 15px;
+        fill: #222222;
+      }
+    </style>
+  </defs>
+
+  <!-- Background and border -->
+  <rect x="2" y="2" width="826" height="196" rx="16" fill="#FFFDF8" stroke="#FFC83D" stroke-width="2"/>
+
+  <!-- Left Indicator Bar -->
+  <rect x="2" y="2" width="8" height="196" fill="#FFC83D" rx="2"/>
+
+  <!-- Dashboard Header -->
+  <g transform="translate(30, 25)">
+    <text x="0" y="0" class="mono-font" font-size="14" font-weight="bold" fill="#222222">🛰️ MISSION CONTROL TELEMETRY GRID</text>
+    <line x1="0" y1="10" x2="770" y2="10" stroke="#FFC83D" stroke-width="1" stroke-dasharray="4 4"/>
+  </g>
+
+  <!-- Column 1 -->
+  <g transform="translate(30, 65)">
+    <!-- Mission Status -->
+    <text x="0" y="15" class="label-text">MISSION STATUS</text>
+    <text x="0" y="38" class="value-text" font-weight="bold" fill="#4AF626">🟢 Active Explorer</text>
+
+    <!-- Current Mission -->
+    <text x="0" y="80" class="label-text">CURRENT MISSION</text>
+    <text x="0" y="103" class="value-text">MSc Data Science (VIT Vellore) 🎓</text>
+  </g>
+
+  <!-- Column 2 -->
+  <g transform="translate(290, 65)">
+    <!-- Base Base -->
+    <text x="0" y="15" class="label-text">CURRENT BASE</text>
+    <text x="0" y="38" class="value-text">Kerala, India 📍</text>
+
+    <!-- Target Destination -->
+    <text x="0" y="80" class="label-text">TARGET DESTINATION</text>
+    <text x="0" y="103" class="value-text">Business Analyst | Data Analyst</text>
+  </g>
+
+  <!-- Column 3 -->
+  <g transform="translate(540, 65)">
+    <!-- Experience -->
+    <text x="0" y="15" class="label-text">FLIGHT LOG</text>
+    <text x="0" y="38" class="value-text">Former Jr. System Engineer (Cognizant) 💼</text>
+
+    <!-- Active Objective -->
+    <text x="0" y="80" class="label-text">ACTIVE OBJECTIVE</text>
+    <text x="0" y="103" class="value-text">Building AI-powered solutions. 🚀</text>
+  </g>
+</svg>
