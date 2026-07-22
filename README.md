@@ -1,6 +1,6 @@
 <!-- Space Explorer meets Data & AI Profile -->
 <div align="center">
-  <!-- Custom High-Fidelity terminal banner (VIT Space Explorer) -->
+  <!-- Custom High-Fidelity self-contained terminal card -->
   <img src="vit_space_explorer.svg" width="100%" alt="VIT Space Explorer - Devika J Nair">
   
   <br><br>
@@ -153,8 +153,8 @@ into human-readable business narratives.
 ### 🛰️ Journey Timeline (Flight Log)
 
 <div align="center">
-  <!-- Waving astronaut animation using repository-hosted asset -->
-  <img src="astronaut.gif" width="130" alt="Waving Astronaut">
+  <!-- Cozy line-art rocket illustration hosted locally in repository -->
+  <img src="cozy_rocket.png" width="150" alt="Cozy Space Rocket">
 </div>
 
 ```text
@@ -235,6 +235,31 @@ A status report on current research fields and modules under active study:
 
 ***
 
+## 🤝 CONNECT WITH ME
+
+<div align="center">
+  <table width="95%" border="0" style="border: 1px solid #FFC83D; border-radius: 10px; background-color: #0B0B0B; padding: 15px;">
+    <tr>
+      <td width="60%" valign="middle" align="left" style="padding-left: 20px;">
+        <h3 style="color: #FFC83D; font-family: monospace; margin-top: 0;">✨ Let's connect and build something together!</h3>
+        <p style="color: #F7F7F7; font-family: monospace; font-size: 1.1em;">
+          I'm always open to discussing new data science missions, business analytics pipelines, or collaboration opportunities! 🛰️
+        </p>
+        <br>
+        <a href="https://linkedin.com/in/devikajnair" target="_blank">
+          <img src="https://img.shields.io/badge/LinkedIn-FFC83D?style=for-the-badge&amp;logo=linkedin&amp;logoColor=0B0B0B" alt="LinkedIn">
+        </a>
+      </td>
+      <td width="40%" align="center" valign="middle">
+        <!-- Direct use of vit_astronaut.png static picture -->
+        <img src="vit_astronaut.png" width="180" style="border-radius: 10px;" alt="VIT Space Explorer Astronaut">
+      </td>
+    </tr>
+  </table>
+</div>
+
+***
+
 ## 🧩 FUN FACTS & LIFE SUPPORT WIDGETS
 
 ### 🔋 LIFE SUPPORT FUEL GAUGE
@@ -244,9 +269,10 @@ A status report on current research fields and modules under active study:
 💤 Sleep     : [████████------------] 40% (Needs Recharging)
 ```
 
-### 🐱 SPACE CAT DEPLOYED
+### 🐱 COZY CODE CAT DEPLOYED
 <div align="center">
-  <img src="https://i.giphy.com/media/JIX9t2j0ZTN9S/giphy.gif" width="180" alt="Coding Cat">
+  <!-- Cozy coding cat static picture -->
+  <img src="cozy_cat.png" width="220" alt="Cozy Coding Cat">
 </div>
 
 ### 💾 SQL DEV JOKE DECK
@@ -265,8 +291,8 @@ WHERE Devika.energy = 'critical_low';
 ***
 
 <div align="center">
-  <!-- Footer Launch GIF using repository-hosted asset -->
-  <img src="rocket.gif" width="100" alt="Rocket Blastoff"><br>
+  <!-- Footer static rocket illustration -->
+  <img src="cozy_rocket.png" width="80" alt="Rocket Blastoff"><br>
   <i style="font-family: monospace;">"Always curious, always exploring."</i><br>
   <strong style="font-family: monospace;">🛰️ Flight Command: Devika7447 | Kerala, India</strong>
 </div>
