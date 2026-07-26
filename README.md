@@ -146,8 +146,8 @@
 <img src="project_tracking.svg" width="60" alt="Global Tracking Icon">
 </td>
 <td valign="top" style="padding-left: 12px;">
-<span style="font-size: 10px; font-weight: bold; color: #FFB800; font-family: monospace;">MISSION 04 • ACTIVE 🛰️</span>
-<h3 style="margin: 4px 0 0 0; color: #222222; font-family: sans-serif; font-size: 18px;">🌍 Logistics Tracker</h3>
+<span style="font-size: 10px; font-weight: bold; color: #FFB800; font-family: monospace;">MISSION 04 • COMPLETE 🏆</span>
+<h3 style="margin: 4px 0 0 0; color: #222222; font-family: sans-serif; font-size: 18px;">🌍 Global Tracking</h3>
 </td>
 </tr>
 </table>
