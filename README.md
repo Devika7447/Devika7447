@@ -8,7 +8,7 @@
 
 <div align="center">
 <!-- Mission Dashboard: Soft rounded card -->
-<img src="dashboard_bubbles_v3.svg" width="100%" alt="Mission Dashboard Telemetry Grid">
+<img src="dashboard_premium.svg" width="100%" alt="Mission Dashboard Telemetry Grid">
 </div>
 
 <br><br>
