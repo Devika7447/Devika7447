@@ -115,30 +115,10 @@
 <img src="https://img.shields.io/badge/SQL-FFB800?style=flat-square&amp;logoColor=0B0B0B" alt="SQL">
 <img src="https://img.shields.io/badge/Excel-F0ECE3?style=flat-square" alt="Excel">
 </div>
-<a href="#" style="text-decoration: none; font-weight: bold; color: #FFB800; font-family: monospace; font-size: 13px;">🚀 LAUNCH MISSION</a>
+<a href="https://github.com/Devika7447/Retail-Sales-Analytics" target="_blank" style="text-decoration: none; font-weight: bold; color: #FFB800; font-family: monospace; font-size: 13px;">🚀 LAUNCH MISSION</a>
 </td>
 </tr>
 <tr>
-<td width="50%" bgcolor="#FFFDF8" valign="top" style="padding: 24px; border-radius: 16px; border: 1.5px solid #FFC83D;">
-<table width="100%" border="0" cellspacing="0" cellpadding="0">
-<tr>
-<td width="70" valign="top">
-<img src="project_tracking.svg" width="60" alt="Global Tracking Icon">
-</td>
-<td valign="top" style="padding-left: 12px;">
-<span style="font-size: 10px; font-weight: bold; color: #FFB800; font-family: monospace;">MISSION 03 • ACTIVE 🛰️</span>
-<h3 style="margin: 4px 0 0 0; color: #222222; font-family: sans-serif; font-size: 18px;">🌍 Logistics Tracker</h3>
-</td>
-</tr>
-</table>
-<p style="color: #666666; font-size: 14px; font-family: sans-serif; min-height: 55px; margin: 15px 0 20px 0; line-height: 1.4;">Geospatial tracking analytics modeling latency across international logistics lanes.</p>
-<div style="margin-bottom: 20px;">
-<img src="https://img.shields.io/badge/Python-FFC83D?style=flat-square&amp;logoColor=0B0B0B" alt="Python">
-<img src="https://img.shields.io/badge/Superset-FFB800?style=flat-square&amp;logoColor=0B0B0B" alt="Superset">
-<img src="https://img.shields.io/badge/Maps_API-F0ECE3?style=flat-square" alt="Maps">
-</div>
-<a href="#" style="text-decoration: none; font-weight: bold; color: #FFB800; font-family: monospace; font-size: 13px;">🚀 LAUNCH MISSION</a>
-</td>
 <td width="50%" bgcolor="#FFFDF8" valign="top" style="padding: 24px; border-radius: 16px; border: 1.5px solid #FFC83D;">
 <table width="100%" border="0" cellspacing="0" cellpadding="0">
 <tr>
@@ -146,7 +126,7 @@
 <img src="project_diabetes.svg" width="60" alt="Diabetes Classifier Icon">
 </td>
 <td valign="top" style="padding-left: 12px;">
-<span style="font-size: 10px; font-weight: bold; color: #FFB800; font-family: monospace;">MISSION 04 • COMPLETE 🩺</span>
+<span style="font-size: 10px; font-weight: bold; color: #FFB800; font-family: monospace;">MISSION 03 • COMPLETE 🩺</span>
 <h3 style="margin: 4px 0 0 0; color: #222222; font-family: sans-serif; font-size: 18px;">🩺 Diabetes Predictor</h3>
 </td>
 </tr>
@@ -157,7 +137,27 @@
 <img src="https://img.shields.io/badge/ML-FFB800?style=flat-square&amp;logoColor=0B0B0B" alt="ML">
 <img src="https://img.shields.io/badge/TensorFlow-F0ECE3?style=flat-square" alt="Tensorflow">
 </div>
-<a href="#" style="text-decoration: none; font-weight: bold; color: #FFB800; font-family: monospace; font-size: 13px;">🚀 LAUNCH MISSION</a>
+<a href="https://github.com/Devika7447/Type-1-Diabetes-BG-Prediction-XGBoost" target="_blank" style="text-decoration: none; font-weight: bold; color: #FFB800; font-family: monospace; font-size: 13px;">🚀 LAUNCH MISSION</a>
+</td>
+<td width="50%" bgcolor="#FFFDF8" valign="top" style="padding: 24px; border-radius: 16px; border: 1.5px solid #FFC83D;">
+<table width="100%" border="0" cellspacing="0" cellpadding="0">
+<tr>
+<td width="70" valign="top">
+<img src="project_tracking.svg" width="60" alt="Global Tracking Icon">
+</td>
+<td valign="top" style="padding-left: 12px;">
+<span style="font-size: 10px; font-weight: bold; color: #FFB800; font-family: monospace;">MISSION 04 • ACTIVE 🛰️</span>
+<h3 style="margin: 4px 0 0 0; color: #222222; font-family: sans-serif; font-size: 18px;">🌍 Logistics Tracker</h3>
+</td>
+</tr>
+</table>
+<p style="color: #666666; font-size: 14px; font-family: sans-serif; min-height: 55px; margin: 15px 0 20px 0; line-height: 1.4;">Geospatial tracking analytics modeling latency across international logistics lanes.</p>
+<div style="margin-bottom: 20px;">
+<img src="https://img.shields.io/badge/Python-FFC83D?style=flat-square&amp;logoColor=0B0B0B" alt="Python">
+<img src="https://img.shields.io/badge/Superset-FFB800?style=flat-square&amp;logoColor=0B0B0B" alt="Superset">
+<img src="https://img.shields.io/badge/Maps_API-F0ECE3?style=flat-square" alt="Maps">
+</div>
+<a href="https://github.com/Devika7447/global-tracking" target="_blank" style="text-decoration: none; font-weight: bold; color: #FFB800; font-family: monospace; font-size: 13px;">🚀 LAUNCH MISSION</a>
 </td>
 </tr>
 </table>
